@@ -202,6 +202,8 @@ warranty_years: 1
 }
 ])
 
+//Practice Questions
+
 db.datatype_practice.find()
 
 db.datatype_practice.find({})
