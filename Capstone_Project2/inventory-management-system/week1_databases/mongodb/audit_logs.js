@@ -23,7 +23,7 @@ database.createCollection("stock_audit_logs", {
   }
 });
 
-// 2) Sample audit documents (flexible JSON - 'details' can differ per document)
+
 database.stock_audit_logs.insertMany([
   {
     movement_id: 3801, product_id: 5, warehouse_id: 1, action: "STOCK_ADJUSTMENT",
@@ -62,7 +62,7 @@ database.stock_audit_logs.insertMany([
   }
 ]);
 
-// 3) INDEXES - quick search by product ID or warehouse
+
 const logs = database.stock_audit_logs;
 logs.createIndex({ product_id: 1 },                                   { name: "idx_product" });
 logs.createIndex({ warehouse_id: 1 },                                 { name: "idx_warehouse" });
@@ -71,7 +71,7 @@ logs.createIndex({ reason_category: 1, timestamp: -1 },               { name: "i
 logs.createIndex({ movement_id: 1 },                                  { name: "uq_movement", unique: true, sparse: true });
 printjson(logs.getIndexes().map(i => i.name));
 
-// 4) Example queries (and proof the index is used)
+
 print("--- all audit entries for product 5 ---");
 printjson(logs.find({ product_id: 5 }, { _id: 0, action: 1, quantity_change: 1, reason: 1, timestamp: 1 }).toArray());
 
