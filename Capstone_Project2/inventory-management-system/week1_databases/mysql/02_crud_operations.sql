@@ -14,7 +14,7 @@ INSERT INTO products (product_id, sku, product_name, category, unit_price, suppl
                       reorder_level, max_stock_level, reorder_quantity)
 VALUES (900, 'TST-0900', 'Test Product - Wireless Keyboard', 'Electronics', 1499.00, 900, 30, 180, 100);
 
--- Receiving stock = insert a movement. The trigger creates/updates stock_levels automatically.
+
 INSERT INTO stock_movements (product_id, warehouse_id, movement_type, quantity, movement_date, reference_no, reason)
 VALUES (900, 1, 'IN', 50, CURRENT_DATE, 'PO-TEST-001', 'Initial purchase order receipt');
 
@@ -53,7 +53,7 @@ VALUES (900, 1, 'ADJUSTMENT', -3, CURRENT_DATE, 'ADJ-TEST-001', 'Damaged goods f
 
 UPDATE stock_levels SET quantity_on_hand = 35 WHERE product_id = 900 AND warehouse_id = 1;
 
-SELECT * FROM stock_levels WHERE product_id = 900;       
+SELECT * FROM stock_levels WHERE product_id = 900;       -- expect 35
 
 
 UPDATE products SET is_active = 0 WHERE product_id = 900;
