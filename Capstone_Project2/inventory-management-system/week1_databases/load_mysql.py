@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
 load_dotenv(ROOT / ".env")
 
-TABLES = {  # table -> (csv file, columns)
+TABLES = {  
     "suppliers": ("suppliers.csv", ["supplier_id", "supplier_name", "contact_person", "email", "phone", "city"]),
     "warehouses": ("warehouses.csv", ["warehouse_id", "warehouse_name", "city", "state", "capacity_units"]),
     "products": ("products.csv", ["product_id", "sku", "product_name", "category", "unit_price", "supplier_id",
