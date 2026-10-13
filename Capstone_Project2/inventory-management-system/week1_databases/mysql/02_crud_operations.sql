@@ -53,7 +53,7 @@ VALUES (900, 1, 'ADJUSTMENT', -3, CURRENT_DATE, 'ADJ-TEST-001', 'Damaged goods f
 
 UPDATE stock_levels SET quantity_on_hand = 35 WHERE product_id = 900 AND warehouse_id = 1;
 
-SELECT * FROM stock_levels WHERE product_id = 900;       -- expect 35
+SELECT * FROM stock_levels WHERE product_id = 900;       
 
 
 UPDATE products SET is_active = 0 WHERE product_id = 900;
