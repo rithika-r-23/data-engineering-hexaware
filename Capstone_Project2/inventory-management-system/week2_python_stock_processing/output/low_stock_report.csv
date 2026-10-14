@@ -1,0 +1,37 @@
+product_id,sku,product_name,category,warehouse_id,warehouse_name,quantity_on_hand,reorder_level,shortage_qty,suggested_order_qty,supplier_name
+10,STA-0010,Ball Pen Box of 50,Stationery,5,Hyderabad South Hub,10,105,95,340,Southern Star Stationers
+16,STA-0016,File Folder Pack of 10,Stationery,3,Delhi North DC,29,120,91,380,Coromandel Traders
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,4,Bengaluru Tech Park WH,25,115,90,460,Coromandel Traders
+5,ELE-0005,HDMI Cable 2m,Electronics,1,Chennai Central DC,8,95,87,380,Deccan Wholesale Co
+7,ELE-0007,Laptop Stand,Electronics,4,Bengaluru Tech Park WH,19,105,86,340,Deccan Wholesale Co
+35,PCA-0035,Toothpaste 150g,Personal Care,1,Chennai Central DC,23,100,77,240,Gangetic Distributors
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,3,Delhi North DC,29,90,61,360,Western Ghats Supplies
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,1,Chennai Central DC,19,75,56,300,Gangetic Distributors
+12,STA-0012,Stapler,Stationery,3,Delhi North DC,22,75,53,300,Southern Star Stationers
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,1,Chennai Central DC,68,115,47,460,Coromandel Traders
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,1,Chennai Central DC,10,55,45,180,Konkan Imports
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,1,Chennai Central DC,45,90,45,360,Western Ghats Supplies
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,1,Chennai Central DC,56,100,44,400,Gangetic Distributors
+24,HOK-0024,Dish Rack,Home & Kitchen,1,Chennai Central DC,21,65,44,260,Coromandel Traders
+25,TOH-0025,Cordless Drill,Tools & Hardware,1,Chennai Central DC,25,65,40,160,Gangetic Distributors
+32,TOH-0032,Safety Gloves,Tools & Hardware,2,Mumbai West Hub,21,60,39,240,Konkan Imports
+38,PCA-0038,Body Lotion 400ml,Personal Care,1,Chennai Central DC,61,100,39,320,Western Ghats Supplies
+44,SPF-0044,Resistance Band Set,Sports & Fitness,3,Delhi North DC,49,85,36,270,Konkan Imports
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,2,Mumbai West Hub,20,55,35,180,Konkan Imports
+11,STA-0011,Spiral Notebook,Stationery,1,Chennai Central DC,32,65,33,160,Southern Star Stationers
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,4,Bengaluru Tech Park WH,43,75,32,300,Gangetic Distributors
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,5,Hyderabad South Hub,16,45,29,180,Gangetic Distributors
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,1,Chennai Central DC,25,50,25,160,Bharat Sports Gear
+3,ELE-0003,Bluetooth Speaker,Electronics,1,Chennai Central DC,2,25,23,100,Namma Tech Components
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,1,Chennai Central DC,28,50,22,200,Gangetic Distributors
+14,STA-0014,Sticky Notes Pack,Stationery,2,Mumbai West Hub,63,85,22,200,Coromandel Traders
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,3,Delhi North DC,54,75,21,300,Gangetic Distributors
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,1,Chennai Central DC,45,65,20,160,Konkan Imports
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,1,Chennai Central DC,46,65,19,260,Konkan Imports
+1,ELE-0001,Wireless Mouse,Electronics,3,Delhi North DC,12,25,13,100,Deccan Wholesale Co
+42,SPF-0042,Skipping Rope,Sports & Fitness,1,Chennai Central DC,52,65,13,260,Konkan Imports
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,1,Chennai Central DC,22,35,13,140,Western Ghats Supplies
+45,SPF-0045,Football Size 5,Sports & Fitness,1,Chennai Central DC,13,25,12,80,Konkan Imports
+40,PCA-0040,Deodorant 150ml,Personal Care,1,Chennai Central DC,19,30,11,70,Western Ghats Supplies
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,1,Chennai Central DC,22,30,8,120,Western Ghats Supplies
+3,ELE-0003,Bluetooth Speaker,Electronics,2,Mumbai West Hub,19,25,6,100,Namma Tech Components
