@@ -1,0 +1,13 @@
+shipment_id,hub_id,shipment_date,destination,weight,status,cost,hub_name,city,manager,cost_per_kg,cost_class,performance_category
+S1001,H01,2026-06-01,Hyderabad,12.5,Delivered,850,South Logistics Hub,Hyderabad,Naveen,68.0,Normal,Completed - Standard
+S1002,H02,2026-06-03,Mumbai,8.0,In Transit,620,Western Distribution Hub,Mumbai,Leena,77.5,Normal,On Track
+S1003,H01,2026-06-06,Bangalore,18.5,Delivered,1250,South Logistics Hub,Hyderabad,Naveen,67.57,Expensive,Completed - High Value
+S1004,H03,2026-06-10,Delhi,5.5,Pending,480,Central Freight Hub,Nagpur,Kabir,87.27,Normal,Pending - Standard
+S1005,H02,2026-07-02,Pune,22.0,Delivered,1600,Western Distribution Hub,Mumbai,Leena,72.73,Expensive,Completed - High Value
+S1006,H03,2026-07-06,Hyderabad,10.0,In Transit,740,Central Freight Hub,Nagpur,Kabir,74.0,Normal,On Track
+S1007,H01,2026-07-12,Mumbai,7.2,Delivered,590,South Logistics Hub,Hyderabad,Naveen,81.94,Normal,Completed - Standard
+S1008,H02,2026-08-01,Delhi,15.5,Pending,1100,Western Distribution Hub,Mumbai,Leena,70.97,Normal,Pending - Standard
+S1009,H03,2026-08-08,Bangalore,11.8,Delivered,920,Central Freight Hub,Nagpur,Kabir,77.97,Normal,Completed - Standard
+S1010,H01,2026-08-14,Pune,25.0,Delivered,1750,South Logistics Hub,Hyderabad,Naveen,70.0,Expensive,Completed - High Value
+S1011,H02,2026-09-02,Hyderabad,6.5,In Transit,520,Western Distribution Hub,Mumbai,Leena,80.0,Normal,On Track
+S1012,H03,2026-09-09,Mumbai,14.0,Delivered,1050,Central Freight Hub,Nagpur,Kabir,75.0,Normal,Completed - Standard
