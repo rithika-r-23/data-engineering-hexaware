@@ -1,0 +1,6 @@
+course_id,course_name,total_enrolled,completed,dropped,avg_progress,completion_rate_pct,dropout_rate_pct
+10,Git & GitHub,54,22,17,61.31,40.7,31.5
+3,MongoDB Essentials,54,13,16,57.25,24.1,29.6
+7,Azure DevOps Pipelines,60,25,15,62.93,41.7,25.0
+5,PySpark Basics,54,22,12,67.36,40.7,22.2
+8,Machine Learning 101,62,25,11,63.74,40.3,17.7

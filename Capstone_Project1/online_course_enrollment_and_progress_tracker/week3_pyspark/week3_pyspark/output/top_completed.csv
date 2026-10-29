@@ -1,0 +1,6 @@
+course_id,course_name,total_enrolled,completed,dropped,avg_progress,completion_rate_pct,dropout_rate_pct
+6,Azure Databricks Intro,61,29,11,68.32,47.5,18.0
+11,Statistics for Data Science,57,28,9,69.94,49.1,15.8
+9,Power BI Dashboards,49,28,8,72.95,57.1,16.3
+7,Azure DevOps Pipelines,60,25,15,62.93,41.7,25.0
+8,Machine Learning 101,62,25,11,63.74,40.3,17.7
