@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+1,Chennai Central DC,Chennai,Tamil Nadu,60000
+2,Mumbai West Hub,Mumbai,Maharashtra,75000
+3,Delhi North DC,Delhi,Delhi,70000
+4,Bengaluru Tech Park WH,Bengaluru,Karnataka,55000
+5,Hyderabad South Hub,Hyderabad,Telangana,50000
