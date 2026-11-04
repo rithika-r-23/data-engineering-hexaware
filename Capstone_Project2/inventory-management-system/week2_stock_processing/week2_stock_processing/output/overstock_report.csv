@@ -1,0 +1,52 @@
+product_id,sku,product_name,warehouse_name,quantity_on_hand,max_stock_level,excess_qty
+43,SPF-0043,Dumbbell Pair 5kg,Delhi North DC,782,150,632
+13,STA-0013,Highlighter Set,Bengaluru Tech Park WH,1031,660,371
+13,STA-0013,Highlighter Set,Mumbai West Hub,996,660,336
+9,STA-0009,A4 Paper Ream 500 Sheets,Mumbai West Hub,796,500,296
+23,HOK-0023,Glass Storage Jar,Bengaluru Tech Park WH,866,575,291
+6,ELE-0006,Webcam 1080p,Chennai Central DC,768,500,268
+15,STA-0015,Whiteboard Marker Set,Mumbai West Hub,714,450,264
+38,PCA-0038,Body Lotion 400ml,Bengaluru Tech Park WH,763,500,263
+9,STA-0009,A4 Paper Ream 500 Sheets,Bengaluru Tech Park WH,760,500,260
+17,HOK-0017,Steel Water Bottle 1L,Mumbai West Hub,788,540,248
+22,HOK-0022,Kitchen Knife Set,Delhi North DC,825,600,225
+10,STA-0010,Ball Pen Box of 50,Bengaluru Tech Park WH,739,525,214
+6,ELE-0006,Webcam 1080p,Bengaluru Tech Park WH,713,500,213
+37,PCA-0037,Face Wash 100ml,Delhi North DC,598,390,208
+12,STA-0012,Stapler,Bengaluru Tech Park WH,651,450,201
+17,HOK-0017,Steel Water Bottle 1L,Hyderabad South Hub,732,540,192
+14,STA-0014,Sticky Notes Pack,Bengaluru Tech Park WH,484,340,144
+5,ELE-0005,HDMI Cable 2m,Mumbai West Hub,711,570,141
+42,SPF-0042,Skipping Rope,Mumbai West Hub,521,390,131
+24,HOK-0024,Dish Rack,Delhi North DC,516,390,126
+14,STA-0014,Sticky Notes Pack,Delhi North DC,464,340,124
+25,TOH-0025,Cordless Drill,Hyderabad South Hub,374,260,114
+26,TOH-0026,Screwdriver Set 24pc,Mumbai West Hub,361,260,101
+41,SPF-0041,Yoga Mat 6mm,Mumbai West Hub,487,390,97
+46,SPF-0046,Badminton Racket Pair,Delhi North DC,345,250,95
+6,ELE-0006,Webcam 1080p,Mumbai West Hub,588,500,88
+41,SPF-0041,Yoga Mat 6mm,Bengaluru Tech Park WH,476,390,86
+2,ELE-0002,USB-C Cable 1m,Mumbai West Hub,410,325,85
+34,PCA-0034,Bathing Soap Pack of 4,Mumbai West Hub,257,180,77
+44,SPF-0044,Resistance Band Set,Bengaluru Tech Park WH,502,425,77
+43,SPF-0043,Dumbbell Pair 5kg,Mumbai West Hub,225,150,75
+33,PCA-0033,Herbal Shampoo 250ml,Mumbai West Hub,343,270,73
+28,TOH-0028,Claw Hammer,Mumbai West Hub,333,260,73
+32,TOH-0032,Safety Gloves,Hyderabad South Hub,433,360,73
+40,PCA-0040,Deodorant 150ml,Hyderabad South Hub,189,120,69
+45,SPF-0045,Football Size 5,Mumbai West Hub,192,125,67
+20,HOK-0020,Electric Kettle 1.5L,Bengaluru Tech Park WH,276,210,66
+8,ELE-0008,USB Flash Drive 64GB,Chennai Central DC,286,220,66
+30,TOH-0030,Extension Board 4-Socket,Mumbai West Hub,363,300,63
+45,SPF-0045,Football Size 5,Bengaluru Tech Park WH,179,125,54
+26,TOH-0026,Screwdriver Set 24pc,Hyderabad South Hub,314,260,54
+18,HOK-0018,Non-stick Frying Pan,Bengaluru Tech Park WH,250,200,50
+28,TOH-0028,Claw Hammer,Bengaluru Tech Park WH,308,260,48
+24,HOK-0024,Dish Rack,Hyderabad South Hub,437,390,47
+31,TOH-0031,Adjustable Spanner,Chennai Central DC,430,390,40
+39,PCA-0039,Electric Trimmer,Bengaluru Tech Park WH,389,350,39
+19,HOK-0019,Lunch Box Set,Mumbai West Hub,313,280,33
+30,TOH-0030,Extension Board 4-Socket,Bengaluru Tech Park WH,332,300,32
+1,ELE-0001,Wireless Mouse,Bengaluru Tech Park WH,178,150,28
+3,ELE-0003,Bluetooth Speaker,Delhi North DC,178,150,28
+4,ELE-0004,Power Bank 10000mAh,Chennai Central DC,146,125,21

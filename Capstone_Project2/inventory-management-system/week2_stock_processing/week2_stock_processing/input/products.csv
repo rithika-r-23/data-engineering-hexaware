@@ -1,0 +1,49 @@
+product_id,sku,product_name,category,unit_price,supplier_id,reorder_level,max_stock_level,reorder_quantity,is_active
+1,ELE-0001,Wireless Mouse,Electronics,699,3,25,150,100,1
+2,ELE-0002,USB-C Cable 1m,Electronics,299,3,65,325,210,1
+3,ELE-0003,Bluetooth Speaker,Electronics,1999,6,25,150,100,1
+4,ELE-0004,Power Bank 10000mAh,Electronics,1299,3,25,125,80,1
+5,ELE-0005,HDMI Cable 2m,Electronics,399,3,95,570,380,1
+6,ELE-0006,Webcam 1080p,Electronics,2499,6,100,500,320,1
+7,ELE-0007,Laptop Stand,Electronics,899,3,105,525,340,1
+8,ELE-0008,USB Flash Drive 64GB,Electronics,549,3,55,220,130,1
+9,STA-0009,A4 Paper Ream 500 Sheets,Stationery,349,7,100,500,320,1
+10,STA-0010,Ball Pen Box of 50,Stationery,450,7,105,525,340,1
+11,STA-0011,Spiral Notebook,Stationery,120,7,65,260,160,1
+12,STA-0012,Stapler,Stationery,180,7,75,450,300,1
+13,STA-0013,Highlighter Set,Stationery,220,7,110,660,440,1
+14,STA-0014,Sticky Notes Pack,Stationery,150,1,85,340,200,1
+15,STA-0015,Whiteboard Marker Set,Stationery,260,7,90,450,290,1
+16,STA-0016,File Folder Pack of 10,Stationery,199,1,120,600,380,1
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,499,2,90,540,360,1
+18,HOK-0018,Non-stick Frying Pan,Home & Kitchen,899,1,40,200,130,1
+19,HOK-0019,Lunch Box Set,Home & Kitchen,599,2,70,280,170,1
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,1199,2,35,210,140,1
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,1499,1,115,690,460,1
+22,HOK-0022,Kitchen Knife Set,Home & Kitchen,999,1,120,600,380,1
+23,HOK-0023,Glass Storage Jar,Home & Kitchen,349,1,115,575,370,1
+24,HOK-0024,Dish Rack,Home & Kitchen,799,1,65,390,260,1
+25,TOH-0025,Cordless Drill,Tools & Hardware,3499,4,65,260,160,1
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,649,5,65,260,160,1
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,199,4,75,450,300,1
+28,TOH-0028,Claw Hammer,Tools & Hardware,349,4,65,260,160,1
+29,TOH-0029,LED Torch,Tools & Hardware,399,5,85,510,340,1
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,599,4,50,300,200,1
+31,TOH-0031,Adjustable Spanner,Tools & Hardware,299,4,65,390,260,1
+32,TOH-0032,Safety Gloves,Tools & Hardware,149,5,60,360,240,1
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,249,4,45,270,180,1
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,180,2,30,180,120,1
+35,PCA-0035,Toothpaste 150g,Personal Care,99,4,100,400,240,1
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,199,4,100,600,400,1
+37,PCA-0037,Face Wash 100ml,Personal Care,229,2,65,390,260,1
+38,PCA-0038,Body Lotion 400ml,Personal Care,349,2,100,500,320,1
+39,PCA-0039,Electric Trimmer,Personal Care,1299,2,70,350,220,1
+40,PCA-0040,Deodorant 150ml,Personal Care,199,2,30,120,70,1
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,799,5,65,390,260,1
+42,SPF-0042,Skipping Rope,Sports & Fitness,249,5,65,390,260,1
+43,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,1299,5,25,150,100,1
+44,SPF-0044,Resistance Band Set,Sports & Fitness,599,5,85,425,270,1
+45,SPF-0045,Football Size 5,Sports & Fitness,899,5,25,125,80,1
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,1499,8,50,250,160,1
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,399,5,55,275,180,1
+48,SPF-0048,Gym Gloves,Sports & Fitness,349,8,40,160,100,1
