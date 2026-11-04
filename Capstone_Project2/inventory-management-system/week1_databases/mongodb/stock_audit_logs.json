@@ -1,0 +1,6176 @@
+[
+ {
+  "movement_id": 267,
+  "product_id": 10,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 442,
+  "new_quantity": 438,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-01-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-713525",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 271,
+  "product_id": 17,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 449,
+  "new_quantity": 447,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-01-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-501454",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 285,
+  "product_id": 17,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 503,
+  "new_quantity": 507,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-01-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-565724",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 290,
+  "product_id": 34,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 109,
+  "new_quantity": 107,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-01-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-623456",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 291,
+  "product_id": 37,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 389,
+  "new_quantity": 385,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-01-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-915401",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 298,
+  "product_id": 10,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 828,
+  "new_quantity": 822,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-01-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-810408",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 318,
+  "product_id": 36,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 537,
+  "new_quantity": 534,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-01-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-394677",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 322,
+  "product_id": 43,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 132,
+  "new_quantity": 133,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-01-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-970948",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 326,
+  "product_id": 17,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 447,
+  "new_quantity": 448,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-01-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-746819",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 330,
+  "product_id": 33,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 202,
+  "new_quantity": 204,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-01-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-734173",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 336,
+  "product_id": 40,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 173,
+  "new_quantity": 177,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-01-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-747740",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 337,
+  "product_id": 41,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 364,
+  "new_quantity": 360,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-01-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-911489",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 347,
+  "product_id": 37,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 331,
+  "new_quantity": 325,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-01-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-106992",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 356,
+  "product_id": 13,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 527,
+  "new_quantity": 528,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-01-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-579173",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 364,
+  "product_id": 7,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 331,
+  "new_quantity": 326,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-01-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-296833",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 389,
+  "product_id": 28,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 436,
+  "new_quantity": 440,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-01-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-258993",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 395,
+  "product_id": 44,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 345,
+  "new_quantity": 342,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-01-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-198654",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 399,
+  "product_id": 7,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 347,
+  "new_quantity": 353,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-01-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-610702",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 404,
+  "product_id": 26,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 187,
+  "new_quantity": 189,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-01-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-693442",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 407,
+  "product_id": 30,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 274,
+  "new_quantity": 268,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-01-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-629661",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 427,
+  "product_id": 26,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 193,
+  "new_quantity": 195,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-01-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-464268",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 428,
+  "product_id": 37,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 336,
+  "new_quantity": 331,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-01-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-945492",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 463,
+  "product_id": 35,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 292,
+  "new_quantity": 295,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-01-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-733348",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 486,
+  "product_id": 24,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 304,
+  "new_quantity": 305,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-02-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-408935",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 502,
+  "product_id": 38,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 646,
+  "new_quantity": 647,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-02-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-685116",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 506,
+  "product_id": 9,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 366,
+  "new_quantity": 365,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-02-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-365516",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 529,
+  "product_id": 7,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 326,
+  "new_quantity": 332,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-136580",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 537,
+  "product_id": 38,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 647,
+  "new_quantity": 648,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-293339",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 552,
+  "product_id": 12,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 354,
+  "new_quantity": 359,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-02-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-170868",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 585,
+  "product_id": 36,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 522,
+  "new_quantity": 524,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-09T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-299099",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 591,
+  "product_id": 9,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 398,
+  "new_quantity": 403,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-929706",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 605,
+  "product_id": 42,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 304,
+  "new_quantity": 301,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-770125",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 647,
+  "product_id": 25,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 269,
+  "new_quantity": 272,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-14T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-718621",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 662,
+  "product_id": 38,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 635,
+  "new_quantity": 639,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-02-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-125247",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 676,
+  "product_id": 43,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 133,
+  "new_quantity": 129,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-02-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-278069",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 683,
+  "product_id": 15,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 308,
+  "new_quantity": 304,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-02-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-887764",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 693,
+  "product_id": 14,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 359,
+  "new_quantity": 353,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-02-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-173552",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 709,
+  "product_id": 35,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 311,
+  "new_quantity": 314,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-996036",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 715,
+  "product_id": 3,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 100,
+  "new_quantity": 105,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-02-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-356257",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 740,
+  "product_id": 37,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 258,
+  "new_quantity": 264,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-02-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-547199",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 742,
+  "product_id": 45,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 97,
+  "new_quantity": 95,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-02-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-451863",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 745,
+  "product_id": 46,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 346,
+  "new_quantity": 341,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-02-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-442728",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 757,
+  "product_id": 26,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 171,
+  "new_quantity": 169,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-02-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-903729",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 765,
+  "product_id": 12,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 1192,
+  "new_quantity": 1191,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-02-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-628769",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 768,
+  "product_id": 22,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 911,
+  "new_quantity": 913,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-02-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-621696",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 779,
+  "product_id": 19,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 185,
+  "new_quantity": 179,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-321413",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 782,
+  "product_id": 28,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 233,
+  "new_quantity": 229,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-02-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-709064",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 784,
+  "product_id": 30,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 326,
+  "new_quantity": 332,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-02-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-710667",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 788,
+  "product_id": 5,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 412,
+  "new_quantity": 411,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-02-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-533827",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 808,
+  "product_id": 32,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 399,
+  "new_quantity": 395,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-02-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-927798",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 818,
+  "product_id": 16,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 1456,
+  "new_quantity": 1458,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-02-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-371613",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 820,
+  "product_id": 30,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 269,
+  "new_quantity": 265,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-02-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-323001",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 824,
+  "product_id": 38,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 355,
+  "new_quantity": 352,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-02-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-999978",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 831,
+  "product_id": 8,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 164,
+  "new_quantity": 161,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-02-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-687341",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 842,
+  "product_id": 10,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 759,
+  "new_quantity": 765,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-03-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-544656",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 851,
+  "product_id": 44,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 842,
+  "new_quantity": 838,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-105142",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 856,
+  "product_id": 21,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 984,
+  "new_quantity": 983,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-03-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-455603",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 857,
+  "product_id": 21,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 983,
+  "new_quantity": 978,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-777626",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 858,
+  "product_id": 24,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 530,
+  "new_quantity": 534,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-03-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-485224",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 870,
+  "product_id": 32,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 260,
+  "new_quantity": 264,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-860527",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 876,
+  "product_id": 8,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 161,
+  "new_quantity": 160,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-03-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-321287",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 896,
+  "product_id": 44,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 276,
+  "new_quantity": 279,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-03-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-207706",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 909,
+  "product_id": 22,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 854,
+  "new_quantity": 852,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-03-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-415267",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 913,
+  "product_id": 32,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 430,
+  "new_quantity": 424,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-03-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-917020",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 919,
+  "product_id": 41,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 287,
+  "new_quantity": 289,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-244026",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 926,
+  "product_id": 15,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 341,
+  "new_quantity": 340,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-03-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-901483",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 929,
+  "product_id": 21,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 787,
+  "new_quantity": 782,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-03-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-185934",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 932,
+  "product_id": 27,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 1021,
+  "new_quantity": 1023,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-03-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-385470",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 937,
+  "product_id": 10,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 495,
+  "new_quantity": 501,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-08T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-915495",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 959,
+  "product_id": 25,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 476,
+  "new_quantity": 470,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-791272",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 960,
+  "product_id": 32,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 424,
+  "new_quantity": 425,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-201982",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 961,
+  "product_id": 33,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 280,
+  "new_quantity": 276,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-701122",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 965,
+  "product_id": 44,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 838,
+  "new_quantity": 841,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-381914",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1012,
+  "product_id": 41,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 289,
+  "new_quantity": 284,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-03-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-721007",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1035,
+  "product_id": 47,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 364,
+  "new_quantity": 363,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-03-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-687062",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1050,
+  "product_id": 8,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 369,
+  "new_quantity": 374,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-03-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-422914",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1071,
+  "product_id": 1,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 243,
+  "new_quantity": 245,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-659673",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1073,
+  "product_id": 5,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 411,
+  "new_quantity": 410,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-03-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-435336",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1083,
+  "product_id": 43,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 209,
+  "new_quantity": 214,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-555386",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1089,
+  "product_id": 2,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 314,
+  "new_quantity": 313,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-853417",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1092,
+  "product_id": 13,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 480,
+  "new_quantity": 478,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-993217",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1095,
+  "product_id": 24,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 305,
+  "new_quantity": 300,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-780328",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1106,
+  "product_id": 21,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 511,
+  "new_quantity": 515,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-711473",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1112,
+  "product_id": 39,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 387,
+  "new_quantity": 392,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-496694",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1114,
+  "product_id": 48,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 140,
+  "new_quantity": 143,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-03-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-485521",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1127,
+  "product_id": 14,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 683,
+  "new_quantity": 682,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-543216",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1129,
+  "product_id": 22,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 835,
+  "new_quantity": 831,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-123114",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1194,
+  "product_id": 47,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 815,
+  "new_quantity": 816,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-03-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-257209",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1211,
+  "product_id": 13,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 1257,
+  "new_quantity": 1263,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-03-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-492661",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1227,
+  "product_id": 35,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 250,
+  "new_quantity": 254,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-734517",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1249,
+  "product_id": 39,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 390,
+  "new_quantity": 388,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-715645",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1251,
+  "product_id": 46,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 359,
+  "new_quantity": 363,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-04-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-672888",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1254,
+  "product_id": 17,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 738,
+  "new_quantity": 742,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-495344",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1256,
+  "product_id": 18,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 87,
+  "new_quantity": 86,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-203000",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1270,
+  "product_id": 6,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 175,
+  "new_quantity": 174,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-777840",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1295,
+  "product_id": 43,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 214,
+  "new_quantity": 212,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-572116",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1297,
+  "product_id": 1,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 119,
+  "new_quantity": 123,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-04-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-502333",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1304,
+  "product_id": 19,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 658,
+  "new_quantity": 662,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-652438",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1316,
+  "product_id": 2,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 562,
+  "new_quantity": 558,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-222871",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1317,
+  "product_id": 3,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 89,
+  "new_quantity": 84,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-04-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-482023",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1322,
+  "product_id": 28,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 348,
+  "new_quantity": 350,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-04-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-597593",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1327,
+  "product_id": 5,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 491,
+  "new_quantity": 494,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-160914",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1339,
+  "product_id": 34,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 103,
+  "new_quantity": 102,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-564749",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1344,
+  "product_id": 6,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 393,
+  "new_quantity": 399,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-08T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-384439",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1345,
+  "product_id": 7,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 639,
+  "new_quantity": 644,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-08T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-452342",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1366,
+  "product_id": 46,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 235,
+  "new_quantity": 236,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-09T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-538830",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1369,
+  "product_id": 5,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 382,
+  "new_quantity": 381,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-389379",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1371,
+  "product_id": 6,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 399,
+  "new_quantity": 400,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-770491",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1414,
+  "product_id": 4,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 85,
+  "new_quantity": 90,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-14T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-552799",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1419,
+  "product_id": 25,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 578,
+  "new_quantity": 580,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-04-14T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-192789",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1421,
+  "product_id": 31,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 292,
+  "new_quantity": 288,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-04-14T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-736099",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1426,
+  "product_id": 4,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 136,
+  "new_quantity": 137,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-598021",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1449,
+  "product_id": 38,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 480,
+  "new_quantity": 476,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-445196",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1451,
+  "product_id": 46,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 319,
+  "new_quantity": 325,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-04-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-114273",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1466,
+  "product_id": 45,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 85,
+  "new_quantity": 87,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-388639",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1468,
+  "product_id": 26,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 175,
+  "new_quantity": 174,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-600052",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1473,
+  "product_id": 42,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 569,
+  "new_quantity": 563,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-699325",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1476,
+  "product_id": 46,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 363,
+  "new_quantity": 362,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-04-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-929059",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1485,
+  "product_id": 35,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 477,
+  "new_quantity": 481,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-346969",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1486,
+  "product_id": 42,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 563,
+  "new_quantity": 569,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-981083",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1487,
+  "product_id": 46,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 362,
+  "new_quantity": 365,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-530352",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1493,
+  "product_id": 23,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 399,
+  "new_quantity": 395,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-929378",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1501,
+  "product_id": 17,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 431,
+  "new_quantity": 425,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-577722",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1503,
+  "product_id": 19,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 358,
+  "new_quantity": 356,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-420805",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1521,
+  "product_id": 10,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 1320,
+  "new_quantity": 1326,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-763411",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1533,
+  "product_id": 44,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 213,
+  "new_quantity": 207,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-04-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-868233",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1545,
+  "product_id": 18,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 499,
+  "new_quantity": 495,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-04-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-882510",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1550,
+  "product_id": 14,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 383,
+  "new_quantity": 381,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-370640",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1574,
+  "product_id": 27,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 690,
+  "new_quantity": 689,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-04-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-681389",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1578,
+  "product_id": 37,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 806,
+  "new_quantity": 810,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-127166",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1588,
+  "product_id": 15,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 466,
+  "new_quantity": 461,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-745818",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1589,
+  "product_id": 21,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 1306,
+  "new_quantity": 1300,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-04-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-826150",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1600,
+  "product_id": 48,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 127,
+  "new_quantity": 121,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-410459",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1603,
+  "product_id": 6,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 893,
+  "new_quantity": 887,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-04-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-128596",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1606,
+  "product_id": 19,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 356,
+  "new_quantity": 358,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-04-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-964202",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1616,
+  "product_id": 32,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 384,
+  "new_quantity": 385,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-04-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-892721",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1655,
+  "product_id": 26,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 226,
+  "new_quantity": 224,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-05-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-561658",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1659,
+  "product_id": 37,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 663,
+  "new_quantity": 660,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-483221",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1660,
+  "product_id": 40,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 246,
+  "new_quantity": 249,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-912785",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1672,
+  "product_id": 36,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 968,
+  "new_quantity": 974,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-05-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-628042",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1673,
+  "product_id": 38,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 609,
+  "new_quantity": 611,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-05-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-584635",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1696,
+  "product_id": 22,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 240,
+  "new_quantity": 242,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-05-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-563422",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1732,
+  "product_id": 26,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 253,
+  "new_quantity": 251,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-05-09T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-398060",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1761,
+  "product_id": 9,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 355,
+  "new_quantity": 354,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-05-12T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-127095",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1781,
+  "product_id": 40,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 128,
+  "new_quantity": 130,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-05-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-422224",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1791,
+  "product_id": 37,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 810,
+  "new_quantity": 809,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-14T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-592134",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1804,
+  "product_id": 38,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 476,
+  "new_quantity": 472,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-05-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-913146",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1815,
+  "product_id": 47,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 400,
+  "new_quantity": 397,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-05-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-874180",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1849,
+  "product_id": 37,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 967,
+  "new_quantity": 964,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-05-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-678771",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1865,
+  "product_id": 40,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 242,
+  "new_quantity": 239,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-05-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-495366",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1866,
+  "product_id": 45,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 74,
+  "new_quantity": 69,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-745181",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1888,
+  "product_id": 1,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 120,
+  "new_quantity": 117,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-534072",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1889,
+  "product_id": 2,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 313,
+  "new_quantity": 315,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-05-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-981612",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1899,
+  "product_id": 23,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 1038,
+  "new_quantity": 1040,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-878533",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1907,
+  "product_id": 45,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 165,
+  "new_quantity": 167,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-05-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-805503",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1911,
+  "product_id": 4,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 77,
+  "new_quantity": 75,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-576587",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1918,
+  "product_id": 39,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 757,
+  "new_quantity": 751,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-688662",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1920,
+  "product_id": 1,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 267,
+  "new_quantity": 264,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-05-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-975807",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1927,
+  "product_id": 30,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 659,
+  "new_quantity": 665,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-05-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-759375",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1940,
+  "product_id": 27,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 689,
+  "new_quantity": 684,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-05-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-232047",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1946,
+  "product_id": 8,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 276,
+  "new_quantity": 273,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-05-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-544939",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1951,
+  "product_id": 17,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 946,
+  "new_quantity": 947,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-05-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-756717",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1959,
+  "product_id": 35,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 422,
+  "new_quantity": 416,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-05-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-607121",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 1974,
+  "product_id": 47,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 780,
+  "new_quantity": 777,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-05-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-773405",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2007,
+  "product_id": 48,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 120,
+  "new_quantity": 118,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-05-31T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-312048",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2013,
+  "product_id": 13,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 815,
+  "new_quantity": 818,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-114222",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2025,
+  "product_id": 10,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 1304,
+  "new_quantity": 1302,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-114607",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2028,
+  "product_id": 20,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 368,
+  "new_quantity": 364,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-06-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-949931",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2032,
+  "product_id": 35,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 400,
+  "new_quantity": 406,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-826399",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2051,
+  "product_id": 16,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 1387,
+  "new_quantity": 1385,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-356377",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2055,
+  "product_id": 24,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 492,
+  "new_quantity": 488,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-955075",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2074,
+  "product_id": 33,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 337,
+  "new_quantity": 341,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-569505",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2088,
+  "product_id": 38,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 1026,
+  "new_quantity": 1020,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-774298",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2091,
+  "product_id": 5,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 374,
+  "new_quantity": 370,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-08T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-408441",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2111,
+  "product_id": 47,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 334,
+  "new_quantity": 337,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-09T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-930416",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2117,
+  "product_id": 14,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 348,
+  "new_quantity": 351,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-110926",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2123,
+  "product_id": 47,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 658,
+  "new_quantity": 655,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-201747",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2125,
+  "product_id": 3,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 299,
+  "new_quantity": 300,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-11T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-359405",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2146,
+  "product_id": 23,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 1033,
+  "new_quantity": 1039,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-06-12T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-311927",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2150,
+  "product_id": 39,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 174,
+  "new_quantity": 172,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-06-12T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-808100",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2155,
+  "product_id": 2,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 786,
+  "new_quantity": 782,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-494113",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2158,
+  "product_id": 16,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 1193,
+  "new_quantity": 1199,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-228314",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2161,
+  "product_id": 20,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 238,
+  "new_quantity": 244,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-981658",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2166,
+  "product_id": 31,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 714,
+  "new_quantity": 720,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-138857",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2178,
+  "product_id": 33,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 515,
+  "new_quantity": 514,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-14T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-963877",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2194,
+  "product_id": 46,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 207,
+  "new_quantity": 202,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-532882",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2197,
+  "product_id": 11,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 542,
+  "new_quantity": 539,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-06-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-383027",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2224,
+  "product_id": 24,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 759,
+  "new_quantity": 763,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-136528",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2230,
+  "product_id": 44,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 1373,
+  "new_quantity": 1372,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-326983",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2255,
+  "product_id": 20,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 105,
+  "new_quantity": 104,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-06-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-834464",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2259,
+  "product_id": 45,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 167,
+  "new_quantity": 165,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-920671",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2264,
+  "product_id": 20,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 442,
+  "new_quantity": 441,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-06-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-152607",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2266,
+  "product_id": 23,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 1039,
+  "new_quantity": 1041,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-117259",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2270,
+  "product_id": 39,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 751,
+  "new_quantity": 750,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-645363",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2275,
+  "product_id": 9,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 810,
+  "new_quantity": 811,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-06-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-423849",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2281,
+  "product_id": 18,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 593,
+  "new_quantity": 587,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-902630",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2292,
+  "product_id": 7,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 224,
+  "new_quantity": 225,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-06-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-413110",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2302,
+  "product_id": 6,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 868,
+  "new_quantity": 866,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-386493",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2328,
+  "product_id": 5,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 706,
+  "new_quantity": 701,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-319236",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2339,
+  "product_id": 1,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 165,
+  "new_quantity": 161,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-588019",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2349,
+  "product_id": 3,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 424,
+  "new_quantity": 428,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-06-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-760052",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2357,
+  "product_id": 27,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 1830,
+  "new_quantity": 1827,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-06-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-777841",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2367,
+  "product_id": 21,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 843,
+  "new_quantity": 842,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-06-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-711333",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2371,
+  "product_id": 48,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 248,
+  "new_quantity": 245,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-06-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-290950",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2384,
+  "product_id": 45,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 357,
+  "new_quantity": 361,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-917756",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2389,
+  "product_id": 29,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 813,
+  "new_quantity": 810,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-07-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-566935",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2396,
+  "product_id": 5,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 1388,
+  "new_quantity": 1386,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-07-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-964521",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2398,
+  "product_id": 22,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 622,
+  "new_quantity": 627,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-07-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-848225",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2403,
+  "product_id": 45,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 286,
+  "new_quantity": 285,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-07-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-203588",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2410,
+  "product_id": 25,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 157,
+  "new_quantity": 151,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-581547",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2414,
+  "product_id": 29,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 611,
+  "new_quantity": 608,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-126987",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2416,
+  "product_id": 35,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 491,
+  "new_quantity": 487,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-07-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-112462",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2443,
+  "product_id": 36,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 891,
+  "new_quantity": 888,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-07-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-113561",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2448,
+  "product_id": 1,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 232,
+  "new_quantity": 227,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-07-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-511675",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2499,
+  "product_id": 31,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 216,
+  "new_quantity": 219,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-07-11T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-966720",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2502,
+  "product_id": 39,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 693,
+  "new_quantity": 688,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-11T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-925535",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2562,
+  "product_id": 8,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 412,
+  "new_quantity": 417,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-885619",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2577,
+  "product_id": 7,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 554,
+  "new_quantity": 560,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-07-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-425765",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2580,
+  "product_id": 18,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 336,
+  "new_quantity": 340,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-485285",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2588,
+  "product_id": 40,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 299,
+  "new_quantity": 304,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-07-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-779980",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2592,
+  "product_id": 11,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 141,
+  "new_quantity": 138,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-07-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-935672",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2596,
+  "product_id": 15,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 623,
+  "new_quantity": 618,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-788251",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2603,
+  "product_id": 40,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 304,
+  "new_quantity": 300,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-952426",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2620,
+  "product_id": 42,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 1141,
+  "new_quantity": 1142,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-408412",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2640,
+  "product_id": 1,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 261,
+  "new_quantity": 265,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-357801",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2667,
+  "product_id": 39,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 1096,
+  "new_quantity": 1098,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-07-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-256485",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2672,
+  "product_id": 19,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 440,
+  "new_quantity": 438,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-07-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-248570",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2685,
+  "product_id": 3,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 140,
+  "new_quantity": 146,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-600371",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2686,
+  "product_id": 7,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 801,
+  "new_quantity": 799,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-07-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-172661",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2710,
+  "product_id": 33,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 493,
+  "new_quantity": 494,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-07-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-394289",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2713,
+  "product_id": 38,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 870,
+  "new_quantity": 869,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-07-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-713856",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2714,
+  "product_id": 39,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 1098,
+  "new_quantity": 1101,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-413656",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2722,
+  "product_id": 16,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 1216,
+  "new_quantity": 1212,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-572500",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2738,
+  "product_id": 26,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 89,
+  "new_quantity": 92,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-07-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-784650",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2739,
+  "product_id": 30,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 488,
+  "new_quantity": 489,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-07-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-597976",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2747,
+  "product_id": 16,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 1796,
+  "new_quantity": 1794,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-07-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-218825",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2756,
+  "product_id": 26,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 776,
+  "new_quantity": 773,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-341555",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2760,
+  "product_id": 32,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 1137,
+  "new_quantity": 1132,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-07-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-453054",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2786,
+  "product_id": 27,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 1320,
+  "new_quantity": 1325,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-07-31T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-239991",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2796,
+  "product_id": 29,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 936,
+  "new_quantity": 930,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-08-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-798934",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2801,
+  "product_id": 42,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 578,
+  "new_quantity": 582,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-627046",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2814,
+  "product_id": 43,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 658,
+  "new_quantity": 655,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-08-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-311697",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2831,
+  "product_id": 15,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 605,
+  "new_quantity": 602,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-712621",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2840,
+  "product_id": 37,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 995,
+  "new_quantity": 1001,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-08-04T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-849255",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2846,
+  "product_id": 13,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 1483,
+  "new_quantity": 1488,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-08-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-329496",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2854,
+  "product_id": 30,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 502,
+  "new_quantity": 508,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-08-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-614764",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2861,
+  "product_id": 1,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 265,
+  "new_quantity": 264,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-637241",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2867,
+  "product_id": 41,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 1272,
+  "new_quantity": 1271,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-08-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-481873",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2876,
+  "product_id": 18,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 247,
+  "new_quantity": 249,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-08-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-607866",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2882,
+  "product_id": 31,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 1049,
+  "new_quantity": 1048,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-08-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-145311",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2887,
+  "product_id": 1,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 227,
+  "new_quantity": 225,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-08T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-800875",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2905,
+  "product_id": 42,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 726,
+  "new_quantity": 721,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-09T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-753522",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2922,
+  "product_id": 18,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 452,
+  "new_quantity": 458,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-11T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-266001",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2931,
+  "product_id": 29,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 1313,
+  "new_quantity": 1314,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-12T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-970671",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2933,
+  "product_id": 31,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 709,
+  "new_quantity": 705,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-12T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-470426",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2957,
+  "product_id": 2,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 892,
+  "new_quantity": 891,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-08-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-515492",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2958,
+  "product_id": 10,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 1297,
+  "new_quantity": 1300,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-08-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-286737",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2960,
+  "product_id": 18,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 458,
+  "new_quantity": 453,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-114400",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2978,
+  "product_id": 48,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 159,
+  "new_quantity": 156,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-08-16T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-124127",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 2992,
+  "product_id": 48,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 375,
+  "new_quantity": 373,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-08-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-673578",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3003,
+  "product_id": 37,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 1098,
+  "new_quantity": 1103,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-422015",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3011,
+  "product_id": 28,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 611,
+  "new_quantity": 616,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-123333",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3014,
+  "product_id": 43,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 186,
+  "new_quantity": 192,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-397159",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3036,
+  "product_id": 29,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 2109,
+  "new_quantity": 2113,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-08-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-693630",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3049,
+  "product_id": 32,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 882,
+  "new_quantity": 888,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-237424",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3055,
+  "product_id": 43,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 189,
+  "new_quantity": 193,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-08-22T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-454625",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3064,
+  "product_id": 23,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 1306,
+  "new_quantity": 1303,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-08-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-513276",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3076,
+  "product_id": 10,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 1300,
+  "new_quantity": 1294,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-339228",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3081,
+  "product_id": 25,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 369,
+  "new_quantity": 363,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-08-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-391581",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3086,
+  "product_id": 41,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 926,
+  "new_quantity": 923,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-689998",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3103,
+  "product_id": 2,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 1359,
+  "new_quantity": 1357,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-26T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-749670",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3119,
+  "product_id": 9,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 2176,
+  "new_quantity": 2171,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-08-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-832777",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3122,
+  "product_id": 11,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 176,
+  "new_quantity": 172,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-08-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-920664",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3125,
+  "product_id": 24,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 918,
+  "new_quantity": 914,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-157513",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3144,
+  "product_id": 4,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 319,
+  "new_quantity": 322,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-08-29T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-971434",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3155,
+  "product_id": 9,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 2171,
+  "new_quantity": 2174,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-08-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-416845",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3161,
+  "product_id": 28,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 584,
+  "new_quantity": 581,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-262139",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3163,
+  "product_id": 33,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 601,
+  "new_quantity": 600,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-08-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-899949",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3170,
+  "product_id": 13,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 1900,
+  "new_quantity": 1903,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-31T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-969764",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3173,
+  "product_id": 40,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 233,
+  "new_quantity": 234,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-08-31T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-472490",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3179,
+  "product_id": 5,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 611,
+  "new_quantity": 610,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-309617",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3210,
+  "product_id": 36,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 1401,
+  "new_quantity": 1407,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-372696",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3217,
+  "product_id": 27,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 790,
+  "new_quantity": 787,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-09-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-207240",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3245,
+  "product_id": 41,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 494,
+  "new_quantity": 489,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-09-05T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-936437",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3252,
+  "product_id": 38,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 1774,
+  "new_quantity": 1775,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-442705",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3253,
+  "product_id": 40,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 344,
+  "new_quantity": 343,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-09-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-571446",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3257,
+  "product_id": 46,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 511,
+  "new_quantity": 508,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-09-06T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-764048",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3269,
+  "product_id": 47,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 754,
+  "new_quantity": 760,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-09-07T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-752806",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3274,
+  "product_id": 8,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -5,
+  "previous_quantity": 792,
+  "new_quantity": 787,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-09-08T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-433820",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3283,
+  "product_id": 5,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 1946,
+  "new_quantity": 1942,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-09-09T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-459708",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3291,
+  "product_id": 13,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 2396,
+  "new_quantity": 2398,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-478146",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3292,
+  "product_id": 14,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 744,
+  "new_quantity": 738,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-09-10T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-261209",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3302,
+  "product_id": 4,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 322,
+  "new_quantity": 323,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-09-11T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-425382",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3311,
+  "product_id": 42,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 1,
+  "previous_quantity": 1457,
+  "new_quantity": 1458,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-09-11T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-883302",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3322,
+  "product_id": 41,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 879,
+  "new_quantity": 875,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-12T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-753294",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3324,
+  "product_id": 7,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 608,
+  "new_quantity": 602,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-09-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-866357",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3329,
+  "product_id": 22,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 1678,
+  "new_quantity": 1674,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-09-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-382497",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3331,
+  "product_id": 27,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 2141,
+  "new_quantity": 2145,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-09-13T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-394956",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3351,
+  "product_id": 11,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 498,
+  "new_quantity": 494,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-09-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-952742",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3357,
+  "product_id": 33,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 945,
+  "new_quantity": 942,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-09-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-802972",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3359,
+  "product_id": 40,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 234,
+  "new_quantity": 238,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-15T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-724722",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3384,
+  "product_id": 20,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 375,
+  "new_quantity": 373,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-135387",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3389,
+  "product_id": 35,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 938,
+  "new_quantity": 941,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-17T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-492833",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3399,
+  "product_id": 5,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 712,
+  "new_quantity": 709,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-603235",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3408,
+  "product_id": 41,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 489,
+  "new_quantity": 487,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-18T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-624132",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3418,
+  "product_id": 48,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 677,
+  "new_quantity": 675,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-19T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-754100",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3422,
+  "product_id": 13,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 2320,
+  "new_quantity": 2314,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-627042",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3426,
+  "product_id": 27,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 1305,
+  "new_quantity": 1304,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-20T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-466196",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3436,
+  "product_id": 9,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 3,
+  "previous_quantity": 1528,
+  "new_quantity": 1531,
+  "reason": "Found stock during audit",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-09-21T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-963084",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3465,
+  "product_id": 47,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 760,
+  "new_quantity": 759,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-09-23T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-659212",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3470,
+  "product_id": 29,
+  "warehouse_id": 2,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 1305,
+  "new_quantity": 1304,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-09-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-188505",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3474,
+  "product_id": 46,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 5,
+  "previous_quantity": 761,
+  "new_quantity": 766,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "lakshmi.v",
+  "timestamp": {
+   "$date": "2026-09-24T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-204366",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3476,
+  "product_id": 2,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 698,
+  "new_quantity": 697,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-794896",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3480,
+  "product_id": 24,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -3,
+  "previous_quantity": 349,
+  "new_quantity": 346,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-158694",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3482,
+  "product_id": 26,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 2,
+  "previous_quantity": 271,
+  "new_quantity": 273,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-09-25T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-458625",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3506,
+  "product_id": 1,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 6,
+  "previous_quantity": 568,
+  "new_quantity": 574,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-09-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-316873",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3515,
+  "product_id": 36,
+  "warehouse_id": 3,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -6,
+  "previous_quantity": 1885,
+  "new_quantity": 1879,
+  "reason": "Theft / shrinkage",
+  "reason_category": "LOSS",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-09-27T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-620696",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3525,
+  "product_id": 41,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -4,
+  "previous_quantity": 911,
+  "new_quantity": 907,
+  "reason": "Cycle count correction",
+  "reason_category": "COUNT_CORRECTION",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-28T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-106948",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3552,
+  "product_id": 29,
+  "warehouse_id": 1,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": 4,
+  "previous_quantity": 1972,
+  "new_quantity": 1976,
+  "reason": "Customer return",
+  "reason_category": "RETURN",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-09-30T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-248423",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3581,
+  "product_id": 41,
+  "warehouse_id": 5,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -2,
+  "previous_quantity": 907,
+  "new_quantity": 905,
+  "reason": "Damaged goods",
+  "reason_category": "DAMAGE",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-10-02T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-568043",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "movement_id": 3585,
+  "product_id": 1,
+  "warehouse_id": 4,
+  "action": "STOCK_ADJUSTMENT",
+  "quantity_change": -1,
+  "previous_quantity": 352,
+  "new_quantity": 351,
+  "reason": "Expired / obsolete stock",
+  "reason_category": "EXPIRY",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-10-03T00:00:00.000Z"
+  },
+  "details": {
+   "reference_no": "ADJ-636437",
+   "source": "mysql.stock_movements"
+  }
+ },
+ {
+  "product_id": 9,
+  "action": "REORDER_LEVEL_CHANGE",
+  "quantity_change": 0,
+  "reason": "Seasonal demand - raised reorder level from 100 to 115",
+  "reason_category": "POLICY",
+  "performed_by": "meena.s",
+  "timestamp": {
+   "$date": "2026-10-09T00:00:00.000Z"
+  },
+  "details": {
+   "old_reorder_level": 100,
+   "new_reorder_level": 115
+  }
+ },
+ {
+  "product_id": 14,
+  "action": "REORDER_LEVEL_CHANGE",
+  "quantity_change": 0,
+  "reason": "Seasonal demand - raised reorder level from 85 to 100",
+  "reason_category": "POLICY",
+  "performed_by": "ravi.k",
+  "timestamp": {
+   "$date": "2026-10-08T00:00:00.000Z"
+  },
+  "details": {
+   "old_reorder_level": 85,
+   "new_reorder_level": 100
+  }
+ },
+ {
+  "product_id": 22,
+  "action": "REORDER_LEVEL_CHANGE",
+  "quantity_change": 0,
+  "reason": "Seasonal demand - raised reorder level from 120 to 135",
+  "reason_category": "POLICY",
+  "performed_by": "arjun.p",
+  "timestamp": {
+   "$date": "2026-10-07T00:00:00.000Z"
+  },
+  "details": {
+   "old_reorder_level": 120,
+   "new_reorder_level": 135
+  }
+ },
+ {
+  "product_id": 31,
+  "action": "REORDER_LEVEL_CHANGE",
+  "quantity_change": 0,
+  "reason": "Seasonal demand - raised reorder level from 65 to 80",
+  "reason_category": "POLICY",
+  "performed_by": "divya.n",
+  "timestamp": {
+   "$date": "2026-10-06T00:00:00.000Z"
+  },
+  "details": {
+   "old_reorder_level": 65,
+   "new_reorder_level": 80
+  }
+ },
+ {
+  "product_id": 40,
+  "action": "REORDER_LEVEL_CHANGE",
+  "quantity_change": 0,
+  "reason": "Seasonal demand - raised reorder level from 30 to 45",
+  "reason_category": "POLICY",
+  "performed_by": "karthik.r",
+  "timestamp": {
+   "$date": "2026-10-05T00:00:00.000Z"
+  },
+  "details": {
+   "old_reorder_level": 30,
+   "new_reorder_level": 45
+  }
+ }
+]
