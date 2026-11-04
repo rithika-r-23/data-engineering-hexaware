@@ -182,7 +182,6 @@ def main():
         [["product_id", "sku", "product_name", "warehouse_name", "quantity_on_hand", "max_stock_level", "excess_qty"]]
     over_report.to_csv(OUTPUT_DIR / "overstock_report.csv", index=False)
 
-    (OUTPUT_DIR / "cleaning_report.json").write_text(json.dumps(report, indent=2))
     
 
 
