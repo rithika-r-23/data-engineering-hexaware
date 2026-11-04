@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,total_units,total_stock_value,product_lines,low_stock_items,overstock_items,low_stock_pct,overstock_pct,warehouse_status
+1,Chennai Central DC,Chennai,7101,5091092,48,21,4,43.8,8.3,UNDERSTOCKED
+2,Mumbai West Hub,Mumbai,14285,9199598,48,4,17,8.3,35.4,OVERSTOCKED
+3,Delhi North DC,Delhi,10755,7459819,48,6,7,12.5,14.6,BALANCED
+4,Bengaluru Tech Park WH,Bengaluru,14470,8605403,48,3,17,6.3,35.4,OVERSTOCKED
+5,Hyderabad South Hub,Hyderabad,10591,7384188,48,2,6,4.2,12.5,BALANCED

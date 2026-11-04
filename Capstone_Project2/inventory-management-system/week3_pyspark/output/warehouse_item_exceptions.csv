@@ -1,0 +1,88 @@
+warehouse_name,sku,product_name,category,quantity_on_hand,reorder_level,max_stock_level,stock_status
+Bengaluru Tech Park WH,ELE-0007,Laptop Stand,Electronics,19,105,525,LOW_STOCK
+Bengaluru Tech Park WH,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,25,115,690,LOW_STOCK
+Bengaluru Tech Park WH,TOH-0027,Measuring Tape 5m,Tools & Hardware,43,75,450,LOW_STOCK
+Bengaluru Tech Park WH,ELE-0001,Wireless Mouse,Electronics,178,25,150,OVERSTOCK
+Bengaluru Tech Park WH,ELE-0006,Webcam 1080p,Electronics,713,100,500,OVERSTOCK
+Bengaluru Tech Park WH,HOK-0018,Non-stick Frying Pan,Home & Kitchen,250,40,200,OVERSTOCK
+Bengaluru Tech Park WH,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,276,35,210,OVERSTOCK
+Bengaluru Tech Park WH,HOK-0023,Glass Storage Jar,Home & Kitchen,866,115,575,OVERSTOCK
+Bengaluru Tech Park WH,PCA-0038,Body Lotion 400ml,Personal Care,763,100,500,OVERSTOCK
+Bengaluru Tech Park WH,PCA-0039,Electric Trimmer,Personal Care,389,70,350,OVERSTOCK
+Bengaluru Tech Park WH,SPF-0041,Yoga Mat 6mm,Sports & Fitness,476,65,390,OVERSTOCK
+Bengaluru Tech Park WH,SPF-0044,Resistance Band Set,Sports & Fitness,502,85,425,OVERSTOCK
+Bengaluru Tech Park WH,SPF-0045,Football Size 5,Sports & Fitness,179,25,125,OVERSTOCK
+Bengaluru Tech Park WH,STA-0009,A4 Paper Ream 500 Sheets,Stationery,760,100,500,OVERSTOCK
+Bengaluru Tech Park WH,STA-0010,Ball Pen Box of 50,Stationery,739,105,525,OVERSTOCK
+Bengaluru Tech Park WH,STA-0012,Stapler,Stationery,651,75,450,OVERSTOCK
+Bengaluru Tech Park WH,STA-0013,Highlighter Set,Stationery,1031,110,660,OVERSTOCK
+Bengaluru Tech Park WH,STA-0014,Sticky Notes Pack,Stationery,484,85,340,OVERSTOCK
+Bengaluru Tech Park WH,TOH-0028,Claw Hammer,Tools & Hardware,308,65,260,OVERSTOCK
+Bengaluru Tech Park WH,TOH-0030,Extension Board 4-Socket,Tools & Hardware,332,50,300,OVERSTOCK
+Chennai Central DC,ELE-0003,Bluetooth Speaker,Electronics,2,25,150,LOW_STOCK
+Chennai Central DC,ELE-0005,HDMI Cable 2m,Electronics,8,95,570,LOW_STOCK
+Chennai Central DC,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,45,90,540,LOW_STOCK
+Chennai Central DC,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,22,35,210,LOW_STOCK
+Chennai Central DC,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,68,115,690,LOW_STOCK
+Chennai Central DC,HOK-0024,Dish Rack,Home & Kitchen,21,65,390,LOW_STOCK
+Chennai Central DC,PCA-0034,Bathing Soap Pack of 4,Personal Care,22,30,180,LOW_STOCK
+Chennai Central DC,PCA-0035,Toothpaste 150g,Personal Care,23,100,400,LOW_STOCK
+Chennai Central DC,PCA-0036,Hand Sanitizer 500ml,Personal Care,56,100,600,LOW_STOCK
+Chennai Central DC,PCA-0038,Body Lotion 400ml,Personal Care,61,100,500,LOW_STOCK
+Chennai Central DC,PCA-0040,Deodorant 150ml,Personal Care,19,30,120,LOW_STOCK
+Chennai Central DC,SPF-0041,Yoga Mat 6mm,Sports & Fitness,46,65,390,LOW_STOCK
+Chennai Central DC,SPF-0042,Skipping Rope,Sports & Fitness,52,65,390,LOW_STOCK
+Chennai Central DC,SPF-0045,Football Size 5,Sports & Fitness,13,25,125,LOW_STOCK
+Chennai Central DC,SPF-0046,Badminton Racket Pair,Sports & Fitness,25,50,250,LOW_STOCK
+Chennai Central DC,SPF-0047,Sports Water Jug 2L,Sports & Fitness,10,55,275,LOW_STOCK
+Chennai Central DC,STA-0011,Spiral Notebook,Stationery,32,65,260,LOW_STOCK
+Chennai Central DC,TOH-0025,Cordless Drill,Tools & Hardware,25,65,260,LOW_STOCK
+Chennai Central DC,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,45,65,260,LOW_STOCK
+Chennai Central DC,TOH-0027,Measuring Tape 5m,Tools & Hardware,19,75,450,LOW_STOCK
+Chennai Central DC,TOH-0030,Extension Board 4-Socket,Tools & Hardware,28,50,300,LOW_STOCK
+Chennai Central DC,ELE-0004,Power Bank 10000mAh,Electronics,146,25,125,OVERSTOCK
+Chennai Central DC,ELE-0006,Webcam 1080p,Electronics,768,100,500,OVERSTOCK
+Chennai Central DC,ELE-0008,USB Flash Drive 64GB,Electronics,286,55,220,OVERSTOCK
+Chennai Central DC,TOH-0031,Adjustable Spanner,Tools & Hardware,430,65,390,OVERSTOCK
+Delhi North DC,ELE-0001,Wireless Mouse,Electronics,12,25,150,LOW_STOCK
+Delhi North DC,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,29,90,540,LOW_STOCK
+Delhi North DC,SPF-0044,Resistance Band Set,Sports & Fitness,49,85,425,LOW_STOCK
+Delhi North DC,STA-0012,Stapler,Stationery,22,75,450,LOW_STOCK
+Delhi North DC,STA-0016,File Folder Pack of 10,Stationery,29,120,600,LOW_STOCK
+Delhi North DC,TOH-0027,Measuring Tape 5m,Tools & Hardware,54,75,450,LOW_STOCK
+Delhi North DC,ELE-0003,Bluetooth Speaker,Electronics,178,25,150,OVERSTOCK
+Delhi North DC,HOK-0022,Kitchen Knife Set,Home & Kitchen,825,120,600,OVERSTOCK
+Delhi North DC,HOK-0024,Dish Rack,Home & Kitchen,516,65,390,OVERSTOCK
+Delhi North DC,PCA-0037,Face Wash 100ml,Personal Care,598,65,390,OVERSTOCK
+Delhi North DC,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,782,25,150,OVERSTOCK
+Delhi North DC,SPF-0046,Badminton Racket Pair,Sports & Fitness,345,50,250,OVERSTOCK
+Delhi North DC,STA-0014,Sticky Notes Pack,Stationery,464,85,340,OVERSTOCK
+Hyderabad South Hub,PCA-0033,Herbal Shampoo 250ml,Personal Care,16,45,270,LOW_STOCK
+Hyderabad South Hub,STA-0010,Ball Pen Box of 50,Stationery,10,105,525,LOW_STOCK
+Hyderabad South Hub,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,732,90,540,OVERSTOCK
+Hyderabad South Hub,HOK-0024,Dish Rack,Home & Kitchen,437,65,390,OVERSTOCK
+Hyderabad South Hub,PCA-0040,Deodorant 150ml,Personal Care,189,30,120,OVERSTOCK
+Hyderabad South Hub,TOH-0025,Cordless Drill,Tools & Hardware,374,65,260,OVERSTOCK
+Hyderabad South Hub,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,314,65,260,OVERSTOCK
+Hyderabad South Hub,TOH-0032,Safety Gloves,Tools & Hardware,433,60,360,OVERSTOCK
+Mumbai West Hub,ELE-0003,Bluetooth Speaker,Electronics,19,25,150,LOW_STOCK
+Mumbai West Hub,SPF-0047,Sports Water Jug 2L,Sports & Fitness,20,55,275,LOW_STOCK
+Mumbai West Hub,STA-0014,Sticky Notes Pack,Stationery,63,85,340,LOW_STOCK
+Mumbai West Hub,TOH-0032,Safety Gloves,Tools & Hardware,21,60,360,LOW_STOCK
+Mumbai West Hub,ELE-0002,USB-C Cable 1m,Electronics,410,65,325,OVERSTOCK
+Mumbai West Hub,ELE-0005,HDMI Cable 2m,Electronics,711,95,570,OVERSTOCK
+Mumbai West Hub,ELE-0006,Webcam 1080p,Electronics,588,100,500,OVERSTOCK
+Mumbai West Hub,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,788,90,540,OVERSTOCK
+Mumbai West Hub,HOK-0019,Lunch Box Set,Home & Kitchen,313,70,280,OVERSTOCK
+Mumbai West Hub,PCA-0033,Herbal Shampoo 250ml,Personal Care,343,45,270,OVERSTOCK
+Mumbai West Hub,PCA-0034,Bathing Soap Pack of 4,Personal Care,257,30,180,OVERSTOCK
+Mumbai West Hub,SPF-0041,Yoga Mat 6mm,Sports & Fitness,487,65,390,OVERSTOCK
+Mumbai West Hub,SPF-0042,Skipping Rope,Sports & Fitness,521,65,390,OVERSTOCK
+Mumbai West Hub,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,225,25,150,OVERSTOCK
+Mumbai West Hub,SPF-0045,Football Size 5,Sports & Fitness,192,25,125,OVERSTOCK
+Mumbai West Hub,STA-0009,A4 Paper Ream 500 Sheets,Stationery,796,100,500,OVERSTOCK
+Mumbai West Hub,STA-0013,Highlighter Set,Stationery,996,110,660,OVERSTOCK
+Mumbai West Hub,STA-0015,Whiteboard Marker Set,Stationery,714,90,450,OVERSTOCK
+Mumbai West Hub,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,361,65,260,OVERSTOCK
+Mumbai West Hub,TOH-0028,Claw Hammer,Tools & Hardware,333,65,260,OVERSTOCK
+Mumbai West Hub,TOH-0030,Extension Board 4-Socket,Tools & Hardware,363,50,300,OVERSTOCK
