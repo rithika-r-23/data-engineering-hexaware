@@ -88,5 +88,5 @@ courses.to_csv(OUTPUT / "courses.csv", index=False)
 enrollments.to_csv(OUTPUT / "enrollments_clean.csv", index=False)
 df.to_csv(OUTPUT / "progress_clean.csv", index=False)
 report.to_csv(OUTPUT / "course_level_averages.csv", index=False)
-(OUTPUT / "cleaning_report.txt").write_text("\n".join(log), encoding="utf-8")
+
 note(f"\nSaved all files to: {OUTPUT}")
