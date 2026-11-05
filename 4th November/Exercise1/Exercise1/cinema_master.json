@@ -1,0 +1,6 @@
+{"cinema_id": "C001", "cinema_name": "Galaxy Screens", "location": {"city": "Hyderabad", "zone": "West"}, "screen_count": 5, "facilities": ["Parking", "Food Court", "Wheelchair Access"]}
+{"cinema_id": "C002", "cinema_name": "Silverlight Multiplex", "location": {"city": "Bengaluru", "zone": "North"}, "screen_count": 7, "facilities": ["Parking", "Food Court"]}
+{"cinema_id": "C003", "cinema_name": "Metro Movies", "location": {"city": "Mumbai", "zone": "Central"}, "screen_count": 4, "facilities": ["Food Court", "Wheelchair Access"]}
+{"cinema_id": "C004", "cinema_name": "Coastal Cinema", "location": {"city": "Chennai", "zone": "South"}, "screen_count": 3, "facilities": ["Parking"]}
+{"cinema_id": "C005", "cinema_name": "Capital Cineplex", "location": {"city": "Delhi", "zone": "East"}, "screen_count": 8, "facilities": ["Parking", "Food Court", "Wheelchair Access"]}
+{"cinema_id": "C006", "cinema_name": "Orchid Screens", "location": {"city": "Pune", "zone": "West"}, "screen_count": 4, "facilities": ["Food Court", "Wheelchair Access"]}

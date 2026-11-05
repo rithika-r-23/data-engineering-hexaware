@@ -1,0 +1,33 @@
+booking_id,cinema_id,movie_title,booking_date,show_date,tickets,price_per_ticket,discount_pct,booking_status,payment_method
+B1001,C001,Starlight Express,2026-10-01,2026-10-03,2,250,10,Confirmed,UPI
+B1002,C002,The Last Island,2026-10-01,2026-10-02,3,300,0,Confirmed,Card
+B1003,C003,Code Red,2026-10-02,2026-10-04,1,220,5,Cancelled,UPI
+B1004,C004,River of Dreams,2026-10-02,2026-10-05,4,180,0,Confirmed,Cash
+B1005,C005,Starlight Express,2026-10-03,2026-10-05,2,320,15,Confirmed,Card
+B1006,C006,The Last Island,2026-10-03,2026-10-04,5,210,,Confirmed,UPI
+B1007,C001,Code Red,2026-10-04,2026-10-06,3,250,0,Confirmed,UPI
+B1008,C002,River of Dreams,2026-10-04,2026-10-06,2,300,10,Refunded,Card
+B1009,C003,Starlight Express,2026-10-05,2026-10-07,4,220,5,Confirmed,UPI
+B1010,C004,The Last Island,2026-10-05,2026-10-08,1,180,0,Confirmed,Cash
+B1011,C005,Code Red,2026-10-06,2026-10-08,2,320,,Confirmed,Card
+B1012,C006,River of Dreams,2026-10-06,2026-10-07,3,210,0,Cancelled,UPI
+B1013,C001,The Last Island,2026-10-07,2026-10-09,5,250,10,Confirmed,Card
+B1014,C002,Starlight Express,2026-10-07,2026-10-10,2,300,0,Confirmed,UPI
+B1015,C003,River of Dreams,2026-10-08,2026-10-10,1,220,0,Confirmed,
+B1016,C004,Code Red,2026-10-08,2026-10-09,3,180,5,Confirmed,Cash
+B1017,C005,The Last Island,2026-10-09,2026-10-11,4,320,15,Refunded,Card
+B1018,C006,Starlight Express,2026-10-09,2026-10-11,2,210,0,Confirmed,UPI
+B1019,C001,River of Dreams,2026-10-10,2026-10-12,1,250,,Cancelled,UPI
+B1020,C002,Code Red,2026-10-10,2026-10-13,3,300,10,Confirmed,Card
+B1021,C003,The Last Island,2026-10-11,2026-10-13,2,220,0,Confirmed,UPI
+B1022,C004,Starlight Express,2026-10-11,2026-10-12,4,180,5,Confirmed,Cash
+B1023,C005,River of Dreams,2026-10-12,2026-10-14,5,320,10,Confirmed,Card
+B1024,C006,Code Red,2026-10-12,2026-10-15,2,210,0,Cancelled,UPI
+B1025,C001,Starlight Express,2026-10-13,2026-10-15,3,250,0,Confirmed,
+B1026,C002,The Last Island,2026-10-13,2026-10-14,1,300,,Confirmed,Card
+B1027,C003,Code Red,2026-10-14,2026-10-16,2,220,15,Confirmed,UPI
+B1028,C004,River of Dreams,2026-10-14,2026-10-17,3,180,0,Refunded,Cash
+B1029,C005,Starlight Express,2026-10-15,2026-10-17,4,320,5,Confirmed,Card
+B1030,C999,The Last Island,2026-10-15,2026-10-18,2,210,0,Confirmed,UPI
+B1006,C006,The Last Island,2026-10-03,2026-10-04,5,210,,Confirmed,UPI
+B1021,C003,The Last Island,2026-10-11,2026-10-13,2,220,0,Confirmed,UPI
