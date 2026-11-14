@@ -1,0 +1,13 @@
+course_id,course_name,category,duration_hours
+1,Python for Beginners,Programming,30
+2,SQL Fundamentals,Databases,25
+3,MongoDB Essentials,Databases,20
+4,Data Analysis with Pandas,Data Science,35
+5,PySpark Basics,Big Data,40
+6,Azure Databricks Intro,Cloud,30
+7,Azure DevOps Pipelines,DevOps,28
+8,Machine Learning 101,Data Science,50
+9,Power BI Dashboards,Analytics,22
+10,Git & GitHub,DevOps,12
+11,Statistics for Data Science,Data Science,32
+12,Data Engineering Basics,Big Data,38

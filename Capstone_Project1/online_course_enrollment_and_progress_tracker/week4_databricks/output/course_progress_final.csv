@@ -1,0 +1,621 @@
+student_name,course,enrollment_date,progress_pct,status
+Aarav Gupta,Statistics for Data Science,2025-05-06,100.0,completed
+Aarav Gupta,Azure DevOps Pipelines,2025-06-06,35.7,dropped
+Aarav Gupta,MongoDB Essentials,2025-07-20,100.0,completed
+Aarav Iyer,SQL Fundamentals,2025-04-03,100.0,completed
+Aarav Iyer,Power BI Dashboards,2025-04-12,17.3,dropped
+Aarav Iyer,Azure DevOps Pipelines,2025-04-21,100.0,completed
+Aarav Iyer,PySpark Basics,2025-06-09,71.0,active
+Aarav Iyer,Azure Databricks Intro,2025-06-24,100.0,completed
+Aarav Iyer,Machine Learning 101,2025-07-28,100.0,completed
+Aarav Iyer,MongoDB Essentials,2025-10-04,100.0,completed
+Aarav Joshi,Python for Beginners,2025-04-21,100.0,completed
+Aarav Joshi,PySpark Basics,2025-05-19,54.4,dropped
+Aarav Joshi,Azure Databricks Intro,2025-06-30,100.0,completed
+Aarav Joshi,Azure DevOps Pipelines,2025-08-13,100.0,completed
+Aarav Joshi,Machine Learning 101,2025-10-07,82.9,active
+Aarav Joshi,MongoDB Essentials,2025-10-13,100.0,completed
+Aarav Menon,SQL Fundamentals,2025-03-28,9.3,active
+Aarav Menon,Statistics for Data Science,2025-09-04,9.1,dropped
+Aarav Pillai,Azure Databricks Intro,2025-05-12,35.3,dropped
+Aarav Pillai,MongoDB Essentials,2025-05-14,5.8,active
+Aarav Pillai,Statistics for Data Science,2025-06-28,100.0,completed
+Aarav Pillai,Machine Learning 101,2025-07-05,17.1,active
+Aarav Pillai,PySpark Basics,2025-08-02,100.0,completed
+Aarav Reddy,Machine Learning 101,2025-05-06,100.0,completed
+Aarav Reddy,Git & GitHub,2025-07-21,100.0,completed
+Aarav Reddy,Power BI Dashboards,2025-09-23,100.0,completed
+Aarav Sharma,Azure Databricks Intro,2025-03-16,11.2,active
+Aarav Sharma,Machine Learning 101,2025-05-06,32.1,dropped
+Aarav Sharma,Statistics for Data Science,2025-05-24,100.0,completed
+Aarav Sharma,Python for Beginners,2025-06-03,100.0,completed
+Aarav Sharma,Git & GitHub,2025-06-15,100.0,completed
+Aarav Sharma,Machine Learning 101,2025-06-29,100.0,completed
+Aarav Sharma,Data Analysis with Pandas,2025-07-23,71.7,active
+Anjali Das,Data Engineering Basics,2025-09-15,23.9,active
+Anjali Das,Machine Learning 101,2025-10-07,44.5,active
+Anjali Das,Azure Databricks Intro,2025-10-10,45.5,active
+Anjali Gupta,Machine Learning 101,2025-03-17,40.8,active
+Anjali Gupta,Statistics for Data Science,2025-06-03,17.3,active
+Anjali Gupta,Azure Databricks Intro,2025-06-26,67.8,active
+Anjali Gupta,Python for Beginners,2025-07-03,100.0,completed
+Anjali Gupta,Data Analysis with Pandas,2025-09-23,100.0,completed
+Anjali Gupta,SQL Fundamentals,2025-10-09,70.9,active
+Anjali Nair,Data Analysis with Pandas,2025-04-16,73.9,active
+Anjali Nair,Statistics for Data Science,2025-08-01,22.0,dropped
+Anjali Nair,PySpark Basics,2025-08-10,100.0,completed
+Anjali Nair,Azure Databricks Intro,2025-08-13,38.7,active
+Anjali Nair,Azure Databricks Intro,2025-08-16,100.0,completed
+Anjali Nair,Machine Learning 101,2025-09-19,100.0,completed
+Anjali Nair,MongoDB Essentials,2025-09-20,65.6,active
+Anjali Singh,Power BI Dashboards,2025-03-21,44.2,active
+Anjali Singh,Azure DevOps Pipelines,2025-04-24,16.4,active
+Anjali Singh,PySpark Basics,2025-06-23,100.0,completed
+Anjali Singh,Statistics for Data Science,2025-08-08,100.0,completed
+Anjali Verma,Azure DevOps Pipelines,2025-07-10,100.0,completed
+Anjali Verma,Machine Learning 101,2025-08-19,0.0,completed
+Arjun Menon,MongoDB Essentials,2025-05-10,15.8,dropped
+Arjun Menon,Power BI Dashboards,2025-09-25,43.8,active
+Arjun Patel,Power BI Dashboards,2025-03-26,76.0,active
+Arjun Patel,Git & GitHub,2025-08-14,25.3,active
+Arjun Pillai,Azure Databricks Intro,2025-04-06,87.3,active
+Arjun Pillai,Data Analysis with Pandas,2025-04-27,100.0,completed
+Arjun Pillai,Data Engineering Basics,2025-06-14,55.2,active
+Arjun Rao,Statistics for Data Science,2025-03-18,82.9,active
+Arjun Rao,SQL Fundamentals,2025-03-20,6.6,dropped
+Arjun Rao,Statistics for Data Science,2025-07-23,100.0,completed
+Arjun Rao,Azure Databricks Intro,2025-07-30,18.9,active
+Arjun Rao,Machine Learning 101,2025-08-07,59.5,active
+Arjun Rao,Data Engineering Basics,2025-09-20,0.0,active
+Arjun Rao,Machine Learning 101,2025-09-22,2.5,dropped
+Arjun Rao,Data Analysis with Pandas,2025-10-17,100.0,completed
+Arjun Singh,Azure DevOps Pipelines,2025-04-17,100.0,completed
+Arjun Singh,Statistics for Data Science,2025-05-08,8.3,dropped
+Arjun Singh,Data Engineering Basics,2025-06-14,48.1,active
+Arjun Singh,Power BI Dashboards,2025-06-23,100.0,completed
+Arjun Singh,Git & GitHub,2025-06-28,100.0,completed
+Arjun Singh,Data Analysis with Pandas,2025-07-18,100.0,completed
+Arjun Singh,Git & GitHub,2025-08-06,35.6,dropped
+Arjun Singh,Azure DevOps Pipelines,2025-08-07,43.0,dropped
+Arjun Singh,Python for Beginners,2025-08-17,100.0,completed
+Arjun Singh,Azure Databricks Intro,2025-10-10,100.0,completed
+Arjun Singh,Power BI Dashboards,2025-10-13,100.0,completed
+Arjun Singh,Azure DevOps Pipelines,2025-10-13,100.0,completed
+Deepak Gupta,SQL Fundamentals,2025-04-06,23.0,dropped
+Deepak Gupta,Power BI Dashboards,2025-04-14,26.9,dropped
+Deepak Gupta,Azure DevOps Pipelines,2025-04-15,100.0,completed
+Deepak Gupta,Git & GitHub,2025-04-17,100.0,completed
+Deepak Gupta,Machine Learning 101,2025-07-03,67.4,active
+Deepak Gupta,MongoDB Essentials,2025-07-26,100.0,completed
+Deepak Nair,Data Analysis with Pandas,2025-04-06,100.0,completed
+Deepak Nair,Azure DevOps Pipelines,2025-04-12,91.7,active
+Deepak Nair,Python for Beginners,2025-04-16,50.7,dropped
+Deepak Nair,Azure DevOps Pipelines,2025-04-20,14.4,dropped
+Deepak Nair,MongoDB Essentials,2025-04-26,14.4,active
+Deepak Nair,Azure Databricks Intro,2025-04-30,100.0,completed
+Deepak Nair,PySpark Basics,2025-05-21,68.9,active
+Deepak Nair,MongoDB Essentials,2025-06-22,77.9,active
+Deepak Pillai,Power BI Dashboards,2025-06-01,78.1,active
+Deepak Pillai,Statistics for Data Science,2025-08-11,0.0,active
+Deepak Pillai,Data Analysis with Pandas,2025-10-09,53.9,active
+Deepak Singh,Data Engineering Basics,2025-09-03,100.0,completed
+Divya Bose,Statistics for Data Science,2025-06-06,50.4,dropped
+Divya Gupta,Statistics for Data Science,2025-06-29,33.8,active
+Divya Gupta,Machine Learning 101,2025-07-06,44.2,dropped
+Divya Iyer,Data Engineering Basics,2025-03-07,100.0,completed
+Divya Iyer,Statistics for Data Science,2025-04-01,100.0,completed
+Divya Iyer,Data Engineering Basics,2025-04-06,100.0,completed
+Divya Iyer,Python for Beginners,2025-05-28,16.8,active
+Divya Iyer,Azure Databricks Intro,2025-06-23,28.2,dropped
+Divya Iyer,Git & GitHub,2025-07-10,17.6,dropped
+Divya Joshi,Python for Beginners,2025-07-13,100.0,completed
+Divya Joshi,Azure DevOps Pipelines,2025-08-06,44.8,dropped
+Divya Joshi,Azure Databricks Intro,2025-09-19,100.0,completed
+Divya Joshi,Data Engineering Basics,2025-09-20,100.0,completed
+Divya Nair,Git & GitHub,2025-04-11,31.2,dropped
+Divya Nair,Azure Databricks Intro,2025-07-29,100.0,completed
+Divya Nair,Machine Learning 101,2025-08-30,0.0,active
+Divya Patel,Data Engineering Basics,2025-06-24,100.0,completed
+Divya Patel,Azure DevOps Pipelines,2025-07-26,61.5,active
+Divya Patel,Data Analysis with Pandas,2025-08-21,100.0,completed
+Divya Reddy,SQL Fundamentals,2025-03-31,100.0,completed
+Divya Reddy,Data Engineering Basics,2025-05-23,100.0,completed
+Divya Reddy,Azure DevOps Pipelines,2025-08-23,100.0,completed
+Divya Reddy,Power BI Dashboards,2025-08-26,11.8,dropped
+Divya Sharma,Azure Databricks Intro,2025-03-04,100.0,completed
+Divya Sharma,Statistics for Data Science,2025-04-22,100.0,completed
+Divya Sharma,MongoDB Essentials,2025-04-23,35.0,active
+Divya Sharma,Git & GitHub,2025-07-01,67.6,active
+Divya Sharma,SQL Fundamentals,2025-07-29,55.3,active
+Divya Sharma,Machine Learning 101,2025-09-06,100.0,completed
+Divya Singh,SQL Fundamentals,2025-04-24,100.0,completed
+Divya Singh,Machine Learning 101,2025-08-28,10.6,active
+Divya Singh,Git & GitHub,2025-09-21,21.8,active
+Divya Verma,Power BI Dashboards,2025-03-24,100.0,completed
+Ishita Das,SQL Fundamentals,2025-06-08,53.7,active
+Ishita Das,Statistics for Data Science,2025-09-02,100.0,completed
+Ishita Das,Data Analysis with Pandas,2025-09-10,76.1,active
+Ishita Iyer,Azure Databricks Intro,2025-03-20,100.0,completed
+Ishita Iyer,Data Engineering Basics,2025-04-06,51.9,active
+Ishita Iyer,Statistics for Data Science,2025-04-28,100.0,completed
+Ishita Iyer,Azure DevOps Pipelines,2025-05-14,100.0,completed
+Ishita Iyer,Power BI Dashboards,2025-05-27,0.0,active
+Ishita Iyer,Azure DevOps Pipelines,2025-07-11,5.8,active
+Ishita Iyer,Statistics for Data Science,2025-08-20,26.3,active
+Ishita Iyer,Git & GitHub,2025-08-25,100.0,completed
+Ishita Iyer,Power BI Dashboards,2025-09-04,31.8,dropped
+Ishita Iyer,PySpark Basics,2025-09-15,100.0,completed
+Ishita Joshi,Data Analysis with Pandas,2025-08-17,42.1,dropped
+Ishita Joshi,Git & GitHub,2025-10-14,100.0,completed
+Ishita Menon,Azure Databricks Intro,2025-06-14,0.0,active
+Ishita Menon,MongoDB Essentials,2025-06-21,100.0,completed
+Ishita Nair,SQL Fundamentals,2025-03-18,100.0,completed
+Ishita Nair,PySpark Basics,2025-05-18,5.0,dropped
+Ishita Nair,Power BI Dashboards,2025-05-30,100.0,completed
+Ishita Nair,Statistics for Data Science,2025-06-29,100.0,completed
+Ishita Nair,Git & GitHub,2025-07-05,0.0,dropped
+Ishita Nair,Machine Learning 101,2025-07-08,13.2,dropped
+Ishita Nair,Azure Databricks Intro,2025-08-16,74.4,active
+Ishita Nair,Python for Beginners,2025-09-08,100.0,completed
+Ishita Nair,Azure DevOps Pipelines,2025-09-10,100.0,completed
+Ishita Patel,PySpark Basics,2025-05-03,29.0,active
+Ishita Patel,Git & GitHub,2025-07-26,76.8,active
+Ishita Patel,MongoDB Essentials,2025-07-28,92.7,active
+Ishita Patel,Azure DevOps Pipelines,2025-09-19,10.0,active
+Ishita Rao,Machine Learning 101,2025-05-11,40.4,active
+Ishita Rao,SQL Fundamentals,2025-09-05,49.2,active
+Ishita Rao,MongoDB Essentials,2025-09-17,100.0,completed
+Ishita Reddy,Machine Learning 101,2025-04-03,26.7,dropped
+Ishita Reddy,MongoDB Essentials,2025-05-22,100.0,active
+Ishita Sharma,Azure DevOps Pipelines,2025-04-30,100.0,completed
+Ishita Sharma,Power BI Dashboards,2025-07-14,100.0,completed
+Ishita Sharma,Azure Databricks Intro,2025-08-03,6.1,dropped
+Ishita Sharma,Statistics for Data Science,2025-08-14,100.0,completed
+Ishita Sharma,MongoDB Essentials,2025-08-21,20.4,dropped
+Ishita Sharma,PySpark Basics,2025-09-12,100.0,completed
+Ishita Sharma,PySpark Basics,2025-09-30,100.0,completed
+Ishita Singh,Data Analysis with Pandas,2025-05-30,44.7,dropped
+Ishita Singh,Data Engineering Basics,2025-09-29,46.8,active
+Ishita Verma,Data Engineering Basics,2025-05-08,100.0,completed
+Ishita Verma,MongoDB Essentials,2025-08-05,26.5,active
+Ishita Verma,Git & GitHub,2025-08-19,25.3,active
+Karthik Bose,Statistics for Data Science,2025-04-03,100.0,completed
+Karthik Bose,Machine Learning 101,2025-05-18,41.9,dropped
+Karthik Bose,Azure Databricks Intro,2025-06-01,100.0,completed
+Karthik Bose,PySpark Basics,2025-09-17,71.6,active
+Karthik Gupta,Statistics for Data Science,2025-03-08,100.0,completed
+Karthik Gupta,Power BI Dashboards,2025-06-18,100.0,completed
+Karthik Gupta,Python for Beginners,2025-08-09,100.0,completed
+Karthik Gupta,PySpark Basics,2025-08-16,1.6,dropped
+Karthik Gupta,Machine Learning 101,2025-10-13,100.0,completed
+Karthik Kumar,Git & GitHub,2025-04-22,77.5,active
+Karthik Kumar,Statistics for Data Science,2025-04-27,100.0,completed
+Karthik Kumar,MongoDB Essentials,2025-07-17,100.0,completed
+Karthik Kumar,Python for Beginners,2025-07-29,0.0,active
+Karthik Kumar,MongoDB Essentials,2025-08-09,33.9,dropped
+Karthik Kumar,PySpark Basics,2025-08-27,76.4,active
+Karthik Kumar,Data Analysis with Pandas,2025-10-04,100.0,completed
+Karthik Menon,SQL Fundamentals,2025-03-07,49.9,active
+Karthik Menon,Data Analysis with Pandas,2025-03-09,11.7,active
+Karthik Menon,PySpark Basics,2025-05-08,51.3,active
+Karthik Menon,Power BI Dashboards,2025-06-14,100.0,completed
+Karthik Menon,SQL Fundamentals,2025-07-17,91.2,active
+Karthik Menon,Git & GitHub,2025-07-22,100.0,completed
+Karthik Menon,Azure Databricks Intro,2025-08-19,100.0,completed
+Karthik Nair,Git & GitHub,2025-03-10,100.0,completed
+Karthik Nair,Azure Databricks Intro,2025-05-14,33.8,dropped
+Karthik Nair,SQL Fundamentals,2025-06-09,100.0,completed
+Karthik Nair,Statistics for Data Science,2025-07-13,11.1,active
+Karthik Nair,Data Analysis with Pandas,2025-07-21,72.9,active
+Karthik Nair,Git & GitHub,2025-07-25,36.5,dropped
+Karthik Nair,Python for Beginners,2025-07-26,100.0,completed
+Karthik Nair,Azure Databricks Intro,2025-08-02,27.5,dropped
+Karthik Rao,MongoDB Essentials,2025-03-19,8.0,active
+Karthik Rao,Azure Databricks Intro,2025-03-22,100.0,completed
+Karthik Rao,Python for Beginners,2025-05-20,27.3,active
+Karthik Rao,Statistics for Data Science,2025-08-01,30.6,active
+Karthik Sharma,Git & GitHub,2025-03-31,100.0,completed
+Karthik Sharma,Azure Databricks Intro,2025-10-10,35.9,dropped
+Karthik Singh,Statistics for Data Science,2025-03-30,100.0,completed
+Karthik Singh,Power BI Dashboards,2025-05-20,100.0,completed
+Karthik Verma,SQL Fundamentals,2025-03-12,15.4,active
+Karthik Verma,Azure DevOps Pipelines,2025-03-23,100.0,completed
+Karthik Verma,MongoDB Essentials,2025-05-27,65.9,active
+Karthik Verma,Statistics for Data Science,2025-06-13,11.6,active
+Karthik Verma,Data Engineering Basics,2025-06-18,25.9,active
+Karthik Verma,SQL Fundamentals,2025-07-05,100.0,completed
+Karthik Verma,PySpark Basics,2025-07-20,100.0,completed
+Karthik Verma,Azure DevOps Pipelines,2025-07-20,100.0,completed
+Karthik Verma,Data Analysis with Pandas,2025-07-25,100.0,completed
+Karthik Verma,Machine Learning 101,2025-08-31,52.3,active
+Karthik Verma,PySpark Basics,2025-09-06,100.0,completed
+Kavya Iyer,SQL Fundamentals,2025-04-16,54.5,active
+Kavya Iyer,Machine Learning 101,2025-05-14,11.2,active
+Kavya Iyer,Azure Databricks Intro,2025-06-27,23.9,active
+Kavya Iyer,Python for Beginners,2025-07-23,100.0,completed
+Kavya Menon,Statistics for Data Science,2025-05-28,48.4,active
+Kavya Menon,Data Engineering Basics,2025-06-15,12.7,active
+Kavya Menon,PySpark Basics,2025-09-14,67.1,active
+Kavya Nair,Python for Beginners,2025-04-01,100.0,completed
+Kavya Nair,Power BI Dashboards,2025-06-11,100.0,completed
+Kavya Nair,PySpark Basics,2025-09-16,16.8,active
+Kavya Singh,Git & GitHub,2025-05-16,0.9,dropped
+Kavya Singh,PySpark Basics,2025-09-29,26.9,dropped
+Kavya Verma,Power BI Dashboards,2025-05-03,8.5,dropped
+Kavya Verma,Azure DevOps Pipelines,2025-05-16,39.6,dropped
+Kavya Verma,MongoDB Essentials,2025-06-09,40.0,dropped
+Kavya Verma,Machine Learning 101,2025-07-15,100.0,completed
+Kavya Verma,PySpark Basics,2025-09-30,100.0,completed
+Lakshmi Bose,Azure DevOps Pipelines,2025-05-03,100.0,completed
+Lakshmi Bose,Power BI Dashboards,2025-09-29,100.0,completed
+Lakshmi Bose,PySpark Basics,2025-10-08,68.1,active
+Lakshmi Das,Python for Beginners,2025-06-03,100.0,completed
+Lakshmi Das,Machine Learning 101,2025-06-05,59.3,active
+Lakshmi Das,SQL Fundamentals,2025-09-29,100.0,completed
+Lakshmi Gupta,Azure DevOps Pipelines,2025-03-08,100.0,completed
+Lakshmi Gupta,Git & GitHub,2025-04-02,100.0,completed
+Lakshmi Gupta,Data Analysis with Pandas,2025-04-02,83.6,active
+Lakshmi Gupta,Data Engineering Basics,2025-05-09,14.5,dropped
+Lakshmi Gupta,MongoDB Essentials,2025-06-12,100.0,completed
+Lakshmi Gupta,Azure DevOps Pipelines,2025-09-08,90.8,active
+Lakshmi Gupta,MongoDB Essentials,2025-09-17,28.3,active
+Lakshmi Gupta,Machine Learning 101,2025-10-04,43.0,dropped
+Lakshmi Gupta,PySpark Basics,2025-10-13,100.0,completed
+Lakshmi Singh,MongoDB Essentials,2025-08-14,13.4,active
+Lakshmi Singh,SQL Fundamentals,2025-10-04,100.0,completed
+Manoj Gupta,Machine Learning 101,2025-07-01,78.0,active
+Manoj Gupta,Statistics for Data Science,2025-08-31,46.2,active
+Manoj Iyer,Machine Learning 101,2025-06-30,100.0,completed
+Manoj Iyer,SQL Fundamentals,2025-08-20,100.0,completed
+Manoj Iyer,Azure DevOps Pipelines,2025-09-02,61.6,active
+Manoj Iyer,Statistics for Data Science,2025-09-17,57.1,active
+Manoj Joshi,Power BI Dashboards,2025-05-23,100.0,completed
+Manoj Joshi,Data Engineering Basics,2025-07-20,43.9,active
+Manoj Joshi,PySpark Basics,2025-08-05,40.7,active
+Manoj Joshi,Git & GitHub,2025-09-17,49.2,active
+Manoj Menon,Python for Beginners,2025-03-16,40.8,active
+Manoj Menon,MongoDB Essentials,2025-04-21,29.4,active
+Manoj Menon,SQL Fundamentals,2025-06-22,72.3,active
+Manoj Menon,Data Engineering Basics,2025-08-05,100.0,completed
+Manoj Menon,SQL Fundamentals,2025-08-08,74.0,active
+Manoj Menon,Azure DevOps Pipelines,2025-08-26,100.0,completed
+Manoj Menon,PySpark Basics,2025-08-27,35.2,dropped
+Manoj Nair,MongoDB Essentials,2025-04-29,35.7,active
+Manoj Patel,Data Engineering Basics,2025-04-20,44.9,active
+Manoj Patel,Azure DevOps Pipelines,2025-05-06,11.7,active
+Manoj Patel,SQL Fundamentals,2025-08-13,100.0,completed
+Manoj Rao,Machine Learning 101,2025-04-03,50.1,dropped
+Manoj Rao,Statistics for Data Science,2025-05-17,100.0,completed
+Manoj Rao,Data Engineering Basics,2025-08-29,100.0,completed
+Manoj Rao,Data Analysis with Pandas,2025-09-16,32.3,dropped
+Manoj Rao,Power BI Dashboards,2025-09-29,100.0,completed
+Manoj Reddy,Azure Databricks Intro,2025-04-04,100.0,completed
+Manoj Reddy,Data Engineering Basics,2025-04-15,92.2,active
+Manoj Reddy,SQL Fundamentals,2025-06-06,34.7,active
+Manoj Reddy,MongoDB Essentials,2025-06-19,82.4,active
+Manoj Reddy,Machine Learning 101,2025-08-25,100.0,completed
+Manoj Sharma,Git & GitHub,2025-03-19,100.0,completed
+Manoj Verma,Azure Databricks Intro,2025-06-05,3.1,dropped
+Meena Bose,PySpark Basics,2025-03-01,43.5,active
+Meena Bose,Azure DevOps Pipelines,2025-03-08,36.7,active
+Meena Bose,Azure DevOps Pipelines,2025-04-03,32.2,active
+Meena Bose,Data Engineering Basics,2025-06-01,100.0,completed
+Meena Bose,Statistics for Data Science,2025-07-17,100.0,completed
+Meena Bose,Machine Learning 101,2025-07-23,100.0,completed
+Meena Bose,MongoDB Essentials,2025-07-30,100.0,completed
+Meena Bose,SQL Fundamentals,2025-08-08,46.4,active
+Meena Bose,Data Analysis with Pandas,2025-08-26,100.0,completed
+Meena Bose,Python for Beginners,2025-10-01,20.6,active
+Meena Bose,Power BI Dashboards,2025-10-01,84.3,active
+Meena Bose,MongoDB Essentials,2025-10-06,100.0,completed
+Meena Bose,Power BI Dashboards,2025-10-11,100.0,completed
+Meena Bose,Python for Beginners,2025-10-15,9.4,active
+Meena Iyer,Machine Learning 101,2025-04-27,93.4,active
+Meena Iyer,PySpark Basics,2025-05-03,100.0,completed
+Meena Iyer,MongoDB Essentials,2025-09-22,59.9,active
+Meena Kumar,Azure DevOps Pipelines,2025-03-12,66.6,active
+Meena Kumar,Machine Learning 101,2025-05-15,69.2,active
+Meena Kumar,Azure DevOps Pipelines,2025-07-28,12.7,active
+Meena Kumar,Data Analysis with Pandas,2025-10-09,56.0,active
+Meena Patel,Git & GitHub,2025-07-20,20.3,dropped
+Meena Patel,Statistics for Data Science,2025-07-23,71.6,active
+Meena Patel,PySpark Basics,2025-10-03,100.0,completed
+Meena Pillai,Azure Databricks Intro,2025-03-08,35.9,dropped
+Meena Pillai,Power BI Dashboards,2025-04-22,100.0,active
+Meena Pillai,SQL Fundamentals,2025-07-31,85.4,active
+Meena Pillai,Data Engineering Basics,2025-09-01,53.6,active
+Meena Pillai,Machine Learning 101,2025-10-14,2.9,dropped
+Meena Rao,Azure DevOps Pipelines,2025-03-02,93.0,active
+Meena Rao,SQL Fundamentals,2025-03-14,100.0,completed
+Meena Rao,PySpark Basics,2025-08-31,37.5,dropped
+Meena Sharma,MongoDB Essentials,2025-06-09,42.0,dropped
+Meena Sharma,Azure DevOps Pipelines,2025-08-22,32.9,active
+Meena Sharma,Machine Learning 101,2025-09-03,26.5,active
+Meena Singh,Statistics for Data Science,2025-03-25,44.2,dropped
+Meena Singh,Azure DevOps Pipelines,2025-04-14,100.0,completed
+Meena Singh,Python for Beginners,2025-05-03,40.7,active
+Meena Singh,Power BI Dashboards,2025-08-12,100.0,completed
+Meena Singh,Azure Databricks Intro,2025-08-21,100.0,completed
+Meena Singh,Data Engineering Basics,2025-08-22,7.1,dropped
+Meena Singh,Git & GitHub,2025-10-05,41.1,dropped
+Naveen Bose,Data Analysis with Pandas,2025-04-08,100.0,completed
+Naveen Bose,Data Engineering Basics,2025-07-12,37.4,dropped
+Naveen Bose,SQL Fundamentals,2025-07-19,23.2,active
+Naveen Gupta,PySpark Basics,2025-03-02,100.0,completed
+Naveen Gupta,Azure DevOps Pipelines,2025-03-06,100.0,completed
+Naveen Gupta,Git & GitHub,2025-03-12,93.3,active
+Naveen Gupta,Machine Learning 101,2025-06-01,10.6,active
+Naveen Gupta,Azure Databricks Intro,2025-06-23,90.9,active
+Naveen Gupta,Power BI Dashboards,2025-06-28,100.0,completed
+Naveen Gupta,SQL Fundamentals,2025-07-01,100.0,completed
+Naveen Gupta,MongoDB Essentials,2025-07-18,54.4,dropped
+Naveen Gupta,Azure DevOps Pipelines,2025-07-28,6.0,active
+Naveen Gupta,Git & GitHub,2025-08-23,49.2,dropped
+Naveen Gupta,Statistics for Data Science,2025-09-14,100.0,completed
+Naveen Kumar,Git & GitHub,2025-09-28,100.0,completed
+Naveen Reddy,Power BI Dashboards,2025-03-13,100.0,completed
+Naveen Reddy,MongoDB Essentials,2025-05-12,100.0,completed
+Naveen Reddy,Data Engineering Basics,2025-06-18,100.0,completed
+Naveen Reddy,SQL Fundamentals,2025-08-21,17.2,active
+Naveen Reddy,Power BI Dashboards,2025-09-18,3.3,dropped
+Naveen Reddy,Git & GitHub,2025-10-02,3.0,dropped
+Naveen Sharma,PySpark Basics,2025-03-01,90.4,active
+Naveen Sharma,SQL Fundamentals,2025-09-04,16.5,active
+Naveen Sharma,Machine Learning 101,2025-10-04,0.0,active
+Naveen Singh,PySpark Basics,2025-03-07,100.0,completed
+Naveen Singh,Machine Learning 101,2025-03-08,75.1,active
+Naveen Singh,Git & GitHub,2025-09-24,52.6,active
+Naveen Verma,SQL Fundamentals,2025-05-16,100.0,completed
+Naveen Verma,Data Analysis with Pandas,2025-07-30,87.0,active
+Naveen Verma,Git & GitHub,2025-08-12,75.7,active
+Naveen Verma,Machine Learning 101,2025-08-21,27.3,dropped
+Naveen Verma,Data Engineering Basics,2025-08-26,8.2,dropped
+Pooja Gupta,Git & GitHub,2025-08-21,49.3,dropped
+Pooja Gupta,Azure Databricks Intro,2025-09-20,30.9,active
+Pooja Iyer,Data Analysis with Pandas,2025-03-10,20.8,active
+Pooja Iyer,Power BI Dashboards,2025-03-10,40.7,active
+Pooja Iyer,Data Engineering Basics,2025-04-17,91.6,active
+Pooja Iyer,Git & GitHub,2025-05-28,100.0,completed
+Pooja Iyer,Azure DevOps Pipelines,2025-10-01,100.0,completed
+Pooja Kumar,Azure Databricks Intro,2025-03-17,100.0,completed
+Pooja Kumar,SQL Fundamentals,2025-05-01,43.7,dropped
+Pooja Kumar,Machine Learning 101,2025-07-06,0.9,dropped
+Pooja Menon,Power BI Dashboards,2025-04-22,19.0,active
+Pooja Menon,Python for Beginners,2025-05-19,100.0,completed
+Pooja Nair,Azure Databricks Intro,2025-04-17,47.6,active
+Pooja Nair,Statistics for Data Science,2025-04-27,100.0,completed
+Pooja Nair,SQL Fundamentals,2025-06-12,13.4,dropped
+Pooja Patel,Data Engineering Basics,2025-03-07,100.0,completed
+Pooja Patel,Statistics for Data Science,2025-03-26,100.0,completed
+Pooja Patel,MongoDB Essentials,2025-03-29,82.5,active
+Pooja Patel,Power BI Dashboards,2025-06-04,64.6,active
+Pooja Patel,Azure DevOps Pipelines,2025-08-17,100.0,active
+Priya Bose,Power BI Dashboards,2025-04-27,100.0,completed
+Priya Bose,Statistics for Data Science,2025-09-01,100.0,completed
+Priya Bose,Machine Learning 101,2025-09-22,71.7,active
+Priya Kumar,Python for Beginners,2025-03-12,35.5,dropped
+Priya Kumar,Azure Databricks Intro,2025-05-06,100.0,completed
+Priya Kumar,SQL Fundamentals,2025-06-11,34.8,active
+Priya Kumar,PySpark Basics,2025-06-19,100.0,completed
+Priya Kumar,Power BI Dashboards,2025-06-23,100.0,completed
+Priya Kumar,Azure DevOps Pipelines,2025-07-11,37.8,dropped
+Priya Nair,Machine Learning 101,2025-03-19,100.0,completed
+Priya Nair,Azure DevOps Pipelines,2025-07-24,19.9,dropped
+Priya Nair,Azure Databricks Intro,2025-08-15,35.4,active
+Priya Nair,Data Engineering Basics,2025-09-27,39.8,dropped
+Priya Nair,Python for Beginners,2025-09-30,100.0,completed
+Priya Pillai,Statistics for Data Science,2025-05-03,36.5,active
+Priya Pillai,Git & GitHub,2025-06-23,0.0,completed
+Priya Pillai,Azure DevOps Pipelines,2025-07-24,100.0,completed
+Priya Pillai,Azure Databricks Intro,2025-08-13,100.0,completed
+Priya Pillai,Python for Beginners,2025-08-16,20.0,active
+Priya Pillai,MongoDB Essentials,2025-08-29,70.6,active
+Priya Rao,Power BI Dashboards,2025-03-11,100.0,completed
+Priya Rao,Data Analysis with Pandas,2025-08-27,100.0,completed
+Priya Rao,PySpark Basics,2025-10-03,43.1,dropped
+Priya Rao,Machine Learning 101,2025-10-06,85.5,active
+Priya Reddy,SQL Fundamentals,2025-03-01,0.0,completed
+Priya Reddy,Data Analysis with Pandas,2025-03-04,100.0,completed
+Priya Reddy,Statistics for Data Science,2025-04-15,82.2,active
+Priya Reddy,Azure Databricks Intro,2025-06-02,100.0,completed
+Priya Reddy,Python for Beginners,2025-08-20,25.6,active
+Priya Sharma,Azure DevOps Pipelines,2025-04-07,50.4,dropped
+Priya Sharma,SQL Fundamentals,2025-05-27,87.7,active
+Priya Sharma,Data Analysis with Pandas,2025-10-09,100.0,completed
+Priya Verma,Azure Databricks Intro,2025-04-13,100.0,completed
+Priya Verma,MongoDB Essentials,2025-07-04,40.3,dropped
+Priya Verma,Statistics for Data Science,2025-07-04,100.0,completed
+Rahul Menon,Azure Databricks Intro,2025-03-23,15.4,active
+Rahul Menon,Data Engineering Basics,2025-04-11,19.1,dropped
+Rahul Menon,SQL Fundamentals,2025-06-26,0.0,active
+Rahul Menon,Machine Learning 101,2025-08-03,100.0,completed
+Rahul Menon,Python for Beginners,2025-08-17,20.7,dropped
+Rahul Menon,PySpark Basics,2025-08-21,69.9,active
+Rahul Menon,Statistics for Data Science,2025-08-29,100.0,completed
+Rahul Menon,Git & GitHub,2025-09-06,20.8,active
+Rahul Nair,SQL Fundamentals,2025-04-13,0.0,dropped
+Rahul Nair,PySpark Basics,2025-07-06,38.1,active
+Rahul Nair,Git & GitHub,2025-07-11,100.0,completed
+Rahul Nair,Git & GitHub,2025-08-22,100.0,completed
+Rahul Nair,Data Engineering Basics,2025-08-27,100.0,completed
+Rahul Nair,Python for Beginners,2025-09-01,100.0,completed
+Rahul Nair,Statistics for Data Science,2025-09-03,23.7,dropped
+Rahul Nair,PySpark Basics,2025-10-02,100.0,completed
+Rahul Patel,PySpark Basics,2025-04-26,100.0,completed
+Rahul Patel,Machine Learning 101,2025-07-01,100.0,completed
+Rahul Patel,Data Engineering Basics,2025-08-03,100.0,completed
+Rahul Patel,MongoDB Essentials,2025-08-11,31.6,active
+Rahul Pillai,Git & GitHub,2025-03-02,6.7,active
+Rahul Rao,MongoDB Essentials,2025-03-18,100.0,completed
+Rahul Rao,Machine Learning 101,2025-05-02,41.2,active
+Rahul Rao,Azure DevOps Pipelines,2025-06-23,38.7,dropped
+Rahul Rao,Git & GitHub,2025-07-17,100.0,completed
+Rahul Singh,Power BI Dashboards,2025-07-09,100.0,completed
+Rahul Singh,Python for Beginners,2025-08-08,100.0,completed
+Rahul Singh,Statistics for Data Science,2025-09-14,100.0,completed
+Rahul Singh,Git & GitHub,2025-10-06,20.2,dropped
+Ravi Bose,Machine Learning 101,2025-04-13,100.0,completed
+Ravi Bose,MongoDB Essentials,2025-05-02,9.3,dropped
+Ravi Bose,Power BI Dashboards,2025-05-08,3.5,dropped
+Ravi Bose,Git & GitHub,2025-05-10,26.6,dropped
+Ravi Iyer,SQL Fundamentals,2025-05-08,79.1,active
+Ravi Iyer,Azure DevOps Pipelines,2025-06-21,54.4,dropped
+Ravi Iyer,Data Analysis with Pandas,2025-07-17,8.7,active
+Ravi Iyer,Statistics for Data Science,2025-09-05,72.6,active
+Ravi Patel,Git & GitHub,2025-07-11,100.0,completed
+Ravi Rao,Git & GitHub,2025-05-24,88.0,active
+Ravi Rao,Power BI Dashboards,2025-05-28,42.3,active
+Ravi Rao,Azure DevOps Pipelines,2025-06-08,100.0,completed
+Ravi Rao,Git & GitHub,2025-07-29,100.0,completed
+Ravi Rao,PySpark Basics,2025-08-18,100.0,completed
+Ravi Rao,Statistics for Data Science,2025-10-02,100.0,completed
+Ravi Reddy,Statistics for Data Science,2025-03-02,34.9,active
+Ravi Reddy,Python for Beginners,2025-06-07,42.6,active
+Ravi Reddy,Power BI Dashboards,2025-06-26,100.0,completed
+Ravi Reddy,Machine Learning 101,2025-07-06,47.0,active
+Ravi Reddy,Azure DevOps Pipelines,2025-07-26,22.1,active
+Ravi Reddy,MongoDB Essentials,2025-09-01,100.0,active
+Ravi Reddy,PySpark Basics,2025-10-17,100.0,completed
+Ravi Sharma,Python for Beginners,2025-05-30,23.9,dropped
+Ravi Sharma,Azure Databricks Intro,2025-09-19,11.8,active
+Ravi Singh,Data Engineering Basics,2025-05-13,12.1,active
+Ravi Singh,Azure Databricks Intro,2025-09-22,100.0,completed
+Ravi Singh,Data Analysis with Pandas,2025-09-26,100.0,completed
+Revathi Bose,Azure Databricks Intro,2025-04-01,100.0,completed
+Revathi Bose,MongoDB Essentials,2025-05-06,24.3,active
+Revathi Bose,PySpark Basics,2025-05-13,94.9,active
+Revathi Bose,Power BI Dashboards,2025-06-24,100.0,completed
+Revathi Gupta,Azure Databricks Intro,2025-05-22,31.3,active
+Revathi Gupta,Data Analysis with Pandas,2025-05-29,32.8,dropped
+Revathi Kumar,PySpark Basics,2025-05-30,60.6,active
+Revathi Kumar,Data Analysis with Pandas,2025-06-08,32.3,dropped
+Revathi Kumar,SQL Fundamentals,2025-07-04,35.2,dropped
+Revathi Kumar,Machine Learning 101,2025-07-30,100.0,completed
+Revathi Kumar,Azure Databricks Intro,2025-08-20,31.8,active
+Revathi Patel,Statistics for Data Science,2025-03-12,38.5,dropped
+Revathi Patel,Azure DevOps Pipelines,2025-03-19,100.0,completed
+Revathi Patel,Azure Databricks Intro,2025-05-21,100.0,completed
+Revathi Patel,Power BI Dashboards,2025-06-05,100.0,completed
+Revathi Patel,Azure Databricks Intro,2025-06-10,100.0,completed
+Revathi Patel,MongoDB Essentials,2025-07-10,31.0,dropped
+Revathi Patel,Statistics for Data Science,2025-07-19,93.0,active
+Revathi Patel,Python for Beginners,2025-07-28,49.4,dropped
+Revathi Patel,Machine Learning 101,2025-09-07,100.0,completed
+Revathi Patel,SQL Fundamentals,2025-09-24,100.0,completed
+Revathi Pillai,Git & GitHub,2025-04-22,13.1,dropped
+Revathi Pillai,Azure DevOps Pipelines,2025-05-25,100.0,completed
+Revathi Pillai,Azure Databricks Intro,2025-05-28,67.4,active
+Revathi Pillai,Machine Learning 101,2025-06-05,70.4,active
+Revathi Pillai,PySpark Basics,2025-06-13,100.0,completed
+Sneha Bose,Data Engineering Basics,2025-03-20,3.4,dropped
+Sneha Bose,Azure Databricks Intro,2025-03-25,0.0,dropped
+Sneha Bose,MongoDB Essentials,2025-06-04,41.1,dropped
+Sneha Bose,SQL Fundamentals,2025-10-16,42.2,active
+Sneha Das,Data Engineering Basics,2025-05-11,84.0,active
+Sneha Das,SQL Fundamentals,2025-10-12,41.3,active
+Sneha Gupta,PySpark Basics,2025-03-10,100.0,completed
+Sneha Gupta,Machine Learning 101,2025-03-21,100.0,completed
+Sneha Gupta,Statistics for Data Science,2025-04-07,100.0,completed
+Sneha Gupta,SQL Fundamentals,2025-06-16,66.8,active
+Sneha Gupta,PySpark Basics,2025-06-30,13.0,dropped
+Sneha Gupta,Machine Learning 101,2025-07-01,100.0,completed
+Sneha Gupta,Azure DevOps Pipelines,2025-08-02,100.0,completed
+Sneha Gupta,Data Engineering Basics,2025-08-05,100.0,completed
+Sneha Gupta,Power BI Dashboards,2025-08-30,100.0,completed
+Sneha Gupta,Git & GitHub,2025-10-17,31.4,dropped
+Sneha Joshi,Python for Beginners,2025-05-13,67.1,active
+Sneha Joshi,Data Analysis with Pandas,2025-05-21,30.8,dropped
+Sneha Kumar,MongoDB Essentials,2025-05-27,11.4,dropped
+Sneha Kumar,Azure DevOps Pipelines,2025-05-29,24.1,dropped
+Sneha Kumar,Git & GitHub,2025-06-24,100.0,completed
+Sneha Kumar,Python for Beginners,2025-09-03,100.0,completed
+Sneha Menon,Machine Learning 101,2025-03-16,100.0,completed
+Sneha Menon,Statistics for Data Science,2025-05-20,33.7,active
+Sneha Menon,Azure DevOps Pipelines,2025-06-23,19.9,dropped
+Sneha Menon,Azure Databricks Intro,2025-07-02,100.0,completed
+Sneha Menon,Power BI Dashboards,2025-07-02,18.7,dropped
+Sneha Menon,SQL Fundamentals,2025-07-19,73.2,active
+Sneha Menon,Machine Learning 101,2025-07-23,100.0,completed
+Sneha Menon,Power BI Dashboards,2025-07-24,22.4,active
+Sneha Menon,MongoDB Essentials,2025-07-25,35.1,dropped
+Sneha Menon,MongoDB Essentials,2025-08-18,73.6,active
+Sneha Menon,Azure DevOps Pipelines,2025-08-23,24.9,dropped
+Sneha Menon,Azure DevOps Pipelines,2025-09-05,0.0,completed
+Sneha Menon,PySpark Basics,2025-09-10,43.3,dropped
+Sneha Menon,SQL Fundamentals,2025-09-14,35.8,dropped
+Sneha Menon,Data Engineering Basics,2025-10-06,41.5,active
+Sneha Menon,PySpark Basics,2025-10-14,31.1,active
+Sneha Patel,Azure Databricks Intro,2025-05-04,100.0,completed
+Sneha Patel,Git & GitHub,2025-05-10,100.0,completed
+Sneha Patel,Data Engineering Basics,2025-08-05,27.6,dropped
+Sneha Patel,Python for Beginners,2025-10-16,100.0,completed
+Sneha Singh,Machine Learning 101,2025-06-01,100.0,completed
+Suresh Bose,PySpark Basics,2025-03-03,10.7,dropped
+Suresh Bose,Machine Learning 101,2025-04-12,100.0,completed
+Suresh Bose,Azure DevOps Pipelines,2025-07-04,46.2,dropped
+Suresh Bose,Azure Databricks Intro,2025-07-22,100.0,dropped
+Suresh Bose,Python for Beginners,2025-08-06,100.0,completed
+Suresh Joshi,Data Engineering Basics,2025-04-23,25.5,dropped
+Suresh Joshi,SQL Fundamentals,2025-07-16,100.0,completed
+Suresh Joshi,Machine Learning 101,2025-10-04,100.0,completed
+Suresh Joshi,MongoDB Essentials,2025-10-17,36.2,dropped
+Suresh Nair,MongoDB Essentials,2025-04-27,9.3,dropped
+Suresh Nair,Data Analysis with Pandas,2025-05-21,100.0,completed
+Suresh Nair,Power BI Dashboards,2025-07-09,100.0,completed
+Suresh Nair,Data Analysis with Pandas,2025-07-23,73.9,active
+Suresh Nair,PySpark Basics,2025-09-06,58.4,active
+Suresh Nair,Python for Beginners,2025-09-22,25.1,dropped
+Suresh Nair,Git & GitHub,2025-09-25,17.0,active
+Suresh Nair,SQL Fundamentals,2025-10-15,18.0,dropped
+Suresh Sharma,MongoDB Essentials,2025-04-16,17.7,dropped
+Suresh Sharma,Statistics for Data Science,2025-04-29,39.8,dropped
+Suresh Sharma,Azure Databricks Intro,2025-05-22,100.0,completed
+Suresh Sharma,Data Analysis with Pandas,2025-05-23,32.6,active
+Suresh Sharma,Statistics for Data Science,2025-06-23,100.0,completed
+Suresh Sharma,MongoDB Essentials,2025-07-01,73.0,active
+Suresh Sharma,Azure Databricks Intro,2025-08-31,37.9,dropped
+Suresh Sharma,Machine Learning 101,2025-09-13,100.0,completed
+Suresh Singh,SQL Fundamentals,2025-04-04,70.9,active
+Suresh Singh,Azure Databricks Intro,2025-04-14,55.6,active
+Suresh Singh,Machine Learning 101,2025-08-05,25.1,active
+Suresh Singh,PySpark Basics,2025-08-22,7.1,dropped
+Suresh Singh,MongoDB Essentials,2025-09-12,45.4,dropped
+Suresh Singh,PySpark Basics,2025-09-19,48.8,active
+Suresh Singh,Power BI Dashboards,2025-09-25,100.0,completed
+Suresh Verma,Git & GitHub,2025-09-12,2.5,dropped
+Suresh Verma,Azure DevOps Pipelines,2025-10-03,100.0,completed
+Suresh Verma,Power BI Dashboards,2025-10-12,100.0,completed
+Vikram Bose,PySpark Basics,2025-03-26,100.0,completed
+Vikram Bose,Azure DevOps Pipelines,2025-07-29,36.6,active
+Vikram Iyer,Data Engineering Basics,2025-03-04,100.0,completed
+Vikram Iyer,Azure Databricks Intro,2025-04-14,90.9,active
+Vikram Joshi,Git & GitHub,2025-06-13,84.3,active
+Vikram Kumar,MongoDB Essentials,2025-03-07,64.3,active
+Vikram Kumar,Azure DevOps Pipelines,2025-04-22,28.0,dropped
+Vikram Kumar,Statistics for Data Science,2025-09-17,90.9,active
+Vikram Menon,PySpark Basics,2025-03-03,9.0,dropped
+Vikram Menon,Data Analysis with Pandas,2025-03-29,100.0,completed
+Vikram Menon,Data Analysis with Pandas,2025-04-06,100.0,completed
+Vikram Menon,Azure DevOps Pipelines,2025-04-08,60.4,active
+Vikram Menon,Statistics for Data Science,2025-06-26,69.7,active
+Vikram Menon,Azure Databricks Intro,2025-09-01,100.0,completed
+Vikram Menon,Statistics for Data Science,2025-10-07,100.0,completed
+Vikram Nair,Azure Databricks Intro,2025-04-05,47.2,active
+Vikram Nair,MongoDB Essentials,2025-05-13,47.5,active
+Vikram Nair,SQL Fundamentals,2025-09-19,100.0,completed
+Vikram Patel,Data Analysis with Pandas,2025-04-21,76.7,active
+Vikram Patel,Data Engineering Basics,2025-05-22,100.0,completed
+Vikram Patel,Power BI Dashboards,2025-06-06,37.3,active
+Vikram Patel,PySpark Basics,2025-08-09,53.9,active
+Vikram Patel,Git & GitHub,2025-09-17,50.2,dropped
+Vikram Rao,SQL Fundamentals,2025-03-03,100.0,completed
+Vikram Rao,Python for Beginners,2025-04-29,100.0,completed
+Vikram Rao,Azure Databricks Intro,2025-06-04,100.0,completed
+Vikram Rao,Git & GitHub,2025-07-03,100.0,completed
+Vikram Rao,Statistics for Data Science,2025-07-20,0.0,dropped
+Vikram Rao,Machine Learning 101,2025-08-18,87.1,active
+Vikram Sharma,Azure DevOps Pipelines,2025-03-24,5.1,active
+Vikram Sharma,Data Analysis with Pandas,2025-08-08,100.0,completed
+Vikram Sharma,Python for Beginners,2025-08-18,19.9,active
+Vikram Sharma,Azure Databricks Intro,2025-09-10,100.0,completed
+Vikram Verma,MongoDB Essentials,2025-05-11,100.0,completed
