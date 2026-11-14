@@ -1,0 +1,241 @@
+product_id,sku,product_name,category,supplier_name,warehouse_id,warehouse_name,city,quantity_on_hand,reorder_level,max_stock_level,reorder_quantity,stock_status,reorder_flag,shortage_qty,excess_qty,suggested_order_qty,unit_price,stock_value,last_movement_date,days_since_last_movement
+1,ELE-0001,Wireless Mouse,Electronics,Deccan Wholesale Co,1,Chennai Central DC,Chennai,55,25,150,100,OK,False,0,0,0,699,38445,2026-10-08,37
+2,ELE-0002,USB-C Cable 1m,Electronics,Deccan Wholesale Co,1,Chennai Central DC,Chennai,166,65,325,210,OK,False,0,0,0,299,49634,2026-10-09,36
+3,ELE-0003,Bluetooth Speaker,Electronics,Namma Tech Components,1,Chennai Central DC,Chennai,2,25,150,100,LOW_STOCK,True,23,0,100,1999,3998,2026-10-10,35
+4,ELE-0004,Power Bank 10000mAh,Electronics,Deccan Wholesale Co,1,Chennai Central DC,Chennai,146,25,125,80,OVERSTOCK,False,0,21,0,1299,189654,2026-10-07,38
+5,ELE-0005,HDMI Cable 2m,Electronics,Deccan Wholesale Co,1,Chennai Central DC,Chennai,8,95,570,380,LOW_STOCK,True,87,0,380,399,3192,2026-10-07,38
+6,ELE-0006,Webcam 1080p,Electronics,Namma Tech Components,1,Chennai Central DC,Chennai,768,100,500,320,OVERSTOCK,False,0,268,0,2499,1919232,2026-10-09,36
+7,ELE-0007,Laptop Stand,Electronics,Deccan Wholesale Co,1,Chennai Central DC,Chennai,309,105,525,340,OK,False,0,0,0,899,277791,2026-10-07,38
+8,ELE-0008,USB Flash Drive 64GB,Electronics,Deccan Wholesale Co,1,Chennai Central DC,Chennai,286,55,220,130,OVERSTOCK,False,0,66,0,549,157014,2026-10-09,36
+9,STA-0009,A4 Paper Ream 500 Sheets,Stationery,Southern Star Stationers,1,Chennai Central DC,Chennai,421,100,500,320,OK,False,0,0,0,349,146929,2026-10-09,36
+10,STA-0010,Ball Pen Box of 50,Stationery,Southern Star Stationers,1,Chennai Central DC,Chennai,362,105,525,340,OK,False,0,0,0,450,162900,2026-10-07,38
+11,STA-0011,Spiral Notebook,Stationery,Southern Star Stationers,1,Chennai Central DC,Chennai,32,65,260,160,LOW_STOCK,True,33,0,160,120,3840,2026-10-08,37
+12,STA-0012,Stapler,Stationery,Southern Star Stationers,1,Chennai Central DC,Chennai,242,75,450,300,OK,False,0,0,0,180,43560,2026-10-10,35
+13,STA-0013,Highlighter Set,Stationery,Southern Star Stationers,1,Chennai Central DC,Chennai,177,110,660,440,OK,False,0,0,0,220,38940,2026-10-08,37
+14,STA-0014,Sticky Notes Pack,Stationery,Coromandel Traders,1,Chennai Central DC,Chennai,121,85,340,200,OK,False,0,0,0,150,18150,2026-10-10,35
+15,STA-0015,Whiteboard Marker Set,Stationery,Southern Star Stationers,1,Chennai Central DC,Chennai,407,90,450,290,OK,False,0,0,0,260,105820,2026-10-08,37
+16,STA-0016,File Folder Pack of 10,Stationery,Coromandel Traders,1,Chennai Central DC,Chennai,352,120,600,380,OK,False,0,0,0,199,70048,2026-10-07,38
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,Western Ghats Supplies,1,Chennai Central DC,Chennai,45,90,540,360,LOW_STOCK,True,45,0,360,499,22455,2026-10-10,35
+18,HOK-0018,Non-stick Frying Pan,Home & Kitchen,Coromandel Traders,1,Chennai Central DC,Chennai,126,40,200,130,OK,False,0,0,0,899,113274,2026-10-07,38
+19,HOK-0019,Lunch Box Set,Home & Kitchen,Western Ghats Supplies,1,Chennai Central DC,Chennai,135,70,280,170,OK,False,0,0,0,599,80865,2026-10-07,38
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,Western Ghats Supplies,1,Chennai Central DC,Chennai,22,35,210,140,LOW_STOCK,True,13,0,140,1199,26378,2026-10-08,37
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,Coromandel Traders,1,Chennai Central DC,Chennai,68,115,690,460,LOW_STOCK,True,47,0,460,1499,101932,2026-10-08,37
+22,HOK-0022,Kitchen Knife Set,Home & Kitchen,Coromandel Traders,1,Chennai Central DC,Chennai,251,120,600,380,OK,False,0,0,0,999,250749,2026-10-08,37
+23,HOK-0023,Glass Storage Jar,Home & Kitchen,Coromandel Traders,1,Chennai Central DC,Chennai,177,115,575,370,OK,False,0,0,0,349,61773,2026-10-08,37
+24,HOK-0024,Dish Rack,Home & Kitchen,Coromandel Traders,1,Chennai Central DC,Chennai,21,65,390,260,LOW_STOCK,True,44,0,260,799,16779,2026-10-08,37
+25,TOH-0025,Cordless Drill,Tools & Hardware,Gangetic Distributors,1,Chennai Central DC,Chennai,25,65,260,160,LOW_STOCK,True,40,0,160,3499,87475,2026-10-09,36
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,Konkan Imports,1,Chennai Central DC,Chennai,45,65,260,160,LOW_STOCK,True,20,0,160,649,29205,2026-10-09,36
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,Gangetic Distributors,1,Chennai Central DC,Chennai,19,75,450,300,LOW_STOCK,True,56,0,300,199,3781,2026-10-08,37
+28,TOH-0028,Claw Hammer,Tools & Hardware,Gangetic Distributors,1,Chennai Central DC,Chennai,202,65,260,160,OK,False,0,0,0,349,70498,2026-10-10,35
+29,TOH-0029,LED Torch,Tools & Hardware,Konkan Imports,1,Chennai Central DC,Chennai,400,85,510,340,OK,False,0,0,0,399,159600,2026-10-09,36
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,Gangetic Distributors,1,Chennai Central DC,Chennai,28,50,300,200,LOW_STOCK,True,22,0,200,599,16772,2026-10-08,37
+31,TOH-0031,Adjustable Spanner,Tools & Hardware,Gangetic Distributors,1,Chennai Central DC,Chennai,430,65,390,260,OVERSTOCK,False,0,40,0,299,128570,2026-10-07,38
+32,TOH-0032,Safety Gloves,Tools & Hardware,Konkan Imports,1,Chennai Central DC,Chennai,117,60,360,240,OK,False,0,0,0,149,17433,2026-10-10,35
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,Gangetic Distributors,1,Chennai Central DC,Chennai,153,45,270,180,OK,False,0,0,0,249,38097,2026-10-07,38
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,Western Ghats Supplies,1,Chennai Central DC,Chennai,22,30,180,120,LOW_STOCK,True,8,0,120,180,3960,2026-10-07,38
+35,PCA-0035,Toothpaste 150g,Personal Care,Gangetic Distributors,1,Chennai Central DC,Chennai,23,100,400,240,LOW_STOCK,True,77,0,240,99,2277,2026-10-10,35
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,Gangetic Distributors,1,Chennai Central DC,Chennai,56,100,600,400,LOW_STOCK,True,44,0,400,199,11144,2026-10-09,36
+37,PCA-0037,Face Wash 100ml,Personal Care,Western Ghats Supplies,1,Chennai Central DC,Chennai,182,65,390,260,OK,False,0,0,0,229,41678,2026-10-07,38
+38,PCA-0038,Body Lotion 400ml,Personal Care,Western Ghats Supplies,1,Chennai Central DC,Chennai,61,100,500,320,LOW_STOCK,True,39,0,320,349,21289,2026-10-09,36
+39,PCA-0039,Electric Trimmer,Personal Care,Western Ghats Supplies,1,Chennai Central DC,Chennai,224,70,350,220,OK,False,0,0,0,1299,290976,2026-10-09,36
+40,PCA-0040,Deodorant 150ml,Personal Care,Western Ghats Supplies,1,Chennai Central DC,Chennai,19,30,120,70,LOW_STOCK,True,11,0,70,199,3781,2026-10-07,38
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,Konkan Imports,1,Chennai Central DC,Chennai,46,65,390,260,LOW_STOCK,True,19,0,260,799,36754,2026-10-07,38
+42,SPF-0042,Skipping Rope,Sports & Fitness,Konkan Imports,1,Chennai Central DC,Chennai,52,65,390,260,LOW_STOCK,True,13,0,260,249,12948,2026-10-07,38
+43,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,Konkan Imports,1,Chennai Central DC,Chennai,48,25,150,100,OK,False,0,0,0,1299,62352,2026-10-09,36
+44,SPF-0044,Resistance Band Set,Sports & Fitness,Konkan Imports,1,Chennai Central DC,Chennai,102,85,425,270,OK,False,0,0,0,599,61098,2026-10-07,38
+45,SPF-0045,Football Size 5,Sports & Fitness,Konkan Imports,1,Chennai Central DC,Chennai,13,25,125,80,LOW_STOCK,True,12,0,80,899,11687,2026-10-07,38
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,Bharat Sports Gear,1,Chennai Central DC,Chennai,25,50,250,160,LOW_STOCK,True,25,0,160,1499,37475,2026-10-08,37
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,Konkan Imports,1,Chennai Central DC,Chennai,10,55,275,180,LOW_STOCK,True,45,0,180,399,3990,2026-10-08,37
+48,SPF-0048,Gym Gloves,Sports & Fitness,Bharat Sports Gear,1,Chennai Central DC,Chennai,100,40,160,100,OK,False,0,0,0,349,34900,2026-10-08,37
+1,ELE-0001,Wireless Mouse,Electronics,Deccan Wholesale Co,2,Mumbai West Hub,Mumbai,48,25,150,100,OK,False,0,0,0,699,33552,2026-10-10,35
+2,ELE-0002,USB-C Cable 1m,Electronics,Deccan Wholesale Co,2,Mumbai West Hub,Mumbai,410,65,325,210,OVERSTOCK,False,0,85,0,299,122590,2026-10-08,37
+3,ELE-0003,Bluetooth Speaker,Electronics,Namma Tech Components,2,Mumbai West Hub,Mumbai,19,25,150,100,LOW_STOCK,True,6,0,100,1999,37981,2026-10-09,36
+4,ELE-0004,Power Bank 10000mAh,Electronics,Deccan Wholesale Co,2,Mumbai West Hub,Mumbai,89,25,125,80,OK,False,0,0,0,1299,115611,2026-10-08,37
+5,ELE-0005,HDMI Cable 2m,Electronics,Deccan Wholesale Co,2,Mumbai West Hub,Mumbai,711,95,570,380,OVERSTOCK,False,0,141,0,399,283689,2026-10-08,37
+6,ELE-0006,Webcam 1080p,Electronics,Namma Tech Components,2,Mumbai West Hub,Mumbai,588,100,500,320,OVERSTOCK,False,0,88,0,2499,1469412,2026-10-10,35
+7,ELE-0007,Laptop Stand,Electronics,Deccan Wholesale Co,2,Mumbai West Hub,Mumbai,413,105,525,340,OK,False,0,0,0,899,371287,2026-10-07,38
+8,ELE-0008,USB Flash Drive 64GB,Electronics,Deccan Wholesale Co,2,Mumbai West Hub,Mumbai,130,55,220,130,OK,False,0,0,0,549,71370,2026-10-10,35
+9,STA-0009,A4 Paper Ream 500 Sheets,Stationery,Southern Star Stationers,2,Mumbai West Hub,Mumbai,796,100,500,320,OVERSTOCK,False,0,296,0,349,277804,2026-10-10,35
+10,STA-0010,Ball Pen Box of 50,Stationery,Southern Star Stationers,2,Mumbai West Hub,Mumbai,213,105,525,340,OK,False,0,0,0,450,95850,2026-10-08,37
+11,STA-0011,Spiral Notebook,Stationery,Southern Star Stationers,2,Mumbai West Hub,Mumbai,236,65,260,160,OK,False,0,0,0,120,28320,2026-10-09,36
+12,STA-0012,Stapler,Stationery,Southern Star Stationers,2,Mumbai West Hub,Mumbai,344,75,450,300,OK,False,0,0,0,180,61920,2026-10-08,37
+13,STA-0013,Highlighter Set,Stationery,Southern Star Stationers,2,Mumbai West Hub,Mumbai,996,110,660,440,OVERSTOCK,False,0,336,0,220,219120,2026-10-10,35
+14,STA-0014,Sticky Notes Pack,Stationery,Coromandel Traders,2,Mumbai West Hub,Mumbai,63,85,340,200,LOW_STOCK,True,22,0,200,150,9450,2026-10-08,37
+15,STA-0015,Whiteboard Marker Set,Stationery,Southern Star Stationers,2,Mumbai West Hub,Mumbai,714,90,450,290,OVERSTOCK,False,0,264,0,260,185640,2026-10-08,37
+16,STA-0016,File Folder Pack of 10,Stationery,Coromandel Traders,2,Mumbai West Hub,Mumbai,339,120,600,380,OK,False,0,0,0,199,67461,2026-10-08,37
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,788,90,540,360,OVERSTOCK,False,0,248,0,499,393212,2026-10-07,38
+18,HOK-0018,Non-stick Frying Pan,Home & Kitchen,Coromandel Traders,2,Mumbai West Hub,Mumbai,130,40,200,130,OK,False,0,0,0,899,116870,2026-10-10,35
+19,HOK-0019,Lunch Box Set,Home & Kitchen,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,313,70,280,170,OVERSTOCK,False,0,33,0,599,187487,2026-10-07,38
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,188,35,210,140,OK,False,0,0,0,1199,225412,2026-10-08,37
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,Coromandel Traders,2,Mumbai West Hub,Mumbai,455,115,690,460,OK,False,0,0,0,1499,682045,2026-10-08,37
+22,HOK-0022,Kitchen Knife Set,Home & Kitchen,Coromandel Traders,2,Mumbai West Hub,Mumbai,205,120,600,380,OK,False,0,0,0,999,204795,2026-10-08,37
+23,HOK-0023,Glass Storage Jar,Home & Kitchen,Coromandel Traders,2,Mumbai West Hub,Mumbai,248,115,575,370,OK,False,0,0,0,349,86552,2026-10-07,38
+24,HOK-0024,Dish Rack,Home & Kitchen,Coromandel Traders,2,Mumbai West Hub,Mumbai,353,65,390,260,OK,False,0,0,0,799,282047,2026-10-08,37
+25,TOH-0025,Cordless Drill,Tools & Hardware,Gangetic Distributors,2,Mumbai West Hub,Mumbai,178,65,260,160,OK,False,0,0,0,3499,622822,2026-10-10,35
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,Konkan Imports,2,Mumbai West Hub,Mumbai,361,65,260,160,OVERSTOCK,False,0,101,0,649,234289,2026-10-07,38
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,Gangetic Distributors,2,Mumbai West Hub,Mumbai,189,75,450,300,OK,False,0,0,0,199,37611,2026-10-07,38
+28,TOH-0028,Claw Hammer,Tools & Hardware,Gangetic Distributors,2,Mumbai West Hub,Mumbai,333,65,260,160,OVERSTOCK,False,0,73,0,349,116217,2026-10-10,35
+29,TOH-0029,LED Torch,Tools & Hardware,Konkan Imports,2,Mumbai West Hub,Mumbai,242,85,510,340,OK,False,0,0,0,399,96558,2026-10-07,38
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,Gangetic Distributors,2,Mumbai West Hub,Mumbai,363,50,300,200,OVERSTOCK,False,0,63,0,599,217437,2026-10-07,38
+31,TOH-0031,Adjustable Spanner,Tools & Hardware,Gangetic Distributors,2,Mumbai West Hub,Mumbai,133,65,390,260,OK,False,0,0,0,299,39767,2026-10-10,35
+32,TOH-0032,Safety Gloves,Tools & Hardware,Konkan Imports,2,Mumbai West Hub,Mumbai,21,60,360,240,LOW_STOCK,True,39,0,240,149,3129,2026-10-07,38
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,Gangetic Distributors,2,Mumbai West Hub,Mumbai,343,45,270,180,OVERSTOCK,False,0,73,0,249,85407,2026-10-08,37
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,257,30,180,120,OVERSTOCK,False,0,77,0,180,46260,2026-10-08,37
+35,PCA-0035,Toothpaste 150g,Personal Care,Gangetic Distributors,2,Mumbai West Hub,Mumbai,121,100,400,240,OK,False,0,0,0,99,11979,2026-10-08,37
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,Gangetic Distributors,2,Mumbai West Hub,Mumbai,167,100,600,400,OK,False,0,0,0,199,33233,2026-10-07,38
+37,PCA-0037,Face Wash 100ml,Personal Care,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,190,65,390,260,OK,False,0,0,0,229,43510,2026-10-09,36
+38,PCA-0038,Body Lotion 400ml,Personal Care,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,213,100,500,320,OK,False,0,0,0,349,74337,2026-10-08,37
+39,PCA-0039,Electric Trimmer,Personal Care,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,325,70,350,220,OK,False,0,0,0,1299,422175,2026-10-10,35
+40,PCA-0040,Deodorant 150ml,Personal Care,Western Ghats Supplies,2,Mumbai West Hub,Mumbai,44,30,120,70,OK,False,0,0,0,199,8756,2026-10-09,36
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,Konkan Imports,2,Mumbai West Hub,Mumbai,487,65,390,260,OVERSTOCK,False,0,97,0,799,389113,2026-09-18,57
+42,SPF-0042,Skipping Rope,Sports & Fitness,Konkan Imports,2,Mumbai West Hub,Mumbai,521,65,390,260,OVERSTOCK,False,0,131,0,249,129729,2026-10-08,37
+43,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,Konkan Imports,2,Mumbai West Hub,Mumbai,225,25,150,100,OVERSTOCK,False,0,75,0,1299,292275,2026-10-10,35
+44,SPF-0044,Resistance Band Set,Sports & Fitness,Konkan Imports,2,Mumbai West Hub,Mumbai,310,85,425,270,OK,False,0,0,0,599,185690,2026-10-10,35
+45,SPF-0045,Football Size 5,Sports & Fitness,Konkan Imports,2,Mumbai West Hub,Mumbai,192,25,125,80,OVERSTOCK,False,0,67,0,899,172608,2026-10-09,36
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,Bharat Sports Gear,2,Mumbai West Hub,Mumbai,181,50,250,160,OK,False,0,0,0,1499,271319,2026-10-09,36
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,Konkan Imports,2,Mumbai West Hub,Mumbai,20,55,275,180,LOW_STOCK,True,35,0,180,399,7980,2026-10-07,38
+48,SPF-0048,Gym Gloves,Sports & Fitness,Bharat Sports Gear,2,Mumbai West Hub,Mumbai,80,40,160,100,OK,False,0,0,0,349,27920,2026-10-07,38
+1,ELE-0001,Wireless Mouse,Electronics,Deccan Wholesale Co,3,Delhi North DC,Delhi,12,25,150,100,LOW_STOCK,True,13,0,100,699,8388,2026-10-10,35
+2,ELE-0002,USB-C Cable 1m,Electronics,Deccan Wholesale Co,3,Delhi North DC,Delhi,197,65,325,210,OK,False,0,0,0,299,58903,2026-10-09,36
+3,ELE-0003,Bluetooth Speaker,Electronics,Namma Tech Components,3,Delhi North DC,Delhi,178,25,150,100,OVERSTOCK,False,0,28,0,1999,355822,2026-10-09,36
+4,ELE-0004,Power Bank 10000mAh,Electronics,Deccan Wholesale Co,3,Delhi North DC,Delhi,52,25,125,80,OK,False,0,0,0,1299,67548,2026-10-08,37
+5,ELE-0005,HDMI Cable 2m,Electronics,Deccan Wholesale Co,3,Delhi North DC,Delhi,255,95,570,380,OK,False,0,0,0,399,101745,2026-10-10,35
+6,ELE-0006,Webcam 1080p,Electronics,Namma Tech Components,3,Delhi North DC,Delhi,166,100,500,320,OK,False,0,0,0,2499,414834,2026-10-08,37
+7,ELE-0007,Laptop Stand,Electronics,Deccan Wholesale Co,3,Delhi North DC,Delhi,261,105,525,340,OK,False,0,0,0,899,234639,2026-10-09,36
+8,ELE-0008,USB Flash Drive 64GB,Electronics,Deccan Wholesale Co,3,Delhi North DC,Delhi,98,55,220,130,OK,False,0,0,0,549,53802,2026-10-07,38
+9,STA-0009,A4 Paper Ream 500 Sheets,Stationery,Southern Star Stationers,3,Delhi North DC,Delhi,343,100,500,320,OK,False,0,0,0,349,119707,2026-10-09,36
+10,STA-0010,Ball Pen Box of 50,Stationery,Southern Star Stationers,3,Delhi North DC,Delhi,187,105,525,340,OK,False,0,0,0,450,84150,2026-10-09,36
+11,STA-0011,Spiral Notebook,Stationery,Southern Star Stationers,3,Delhi North DC,Delhi,208,65,260,160,OK,False,0,0,0,120,24960,2026-10-08,37
+12,STA-0012,Stapler,Stationery,Southern Star Stationers,3,Delhi North DC,Delhi,22,75,450,300,LOW_STOCK,True,53,0,300,180,3960,2026-10-07,38
+13,STA-0013,Highlighter Set,Stationery,Southern Star Stationers,3,Delhi North DC,Delhi,132,110,660,440,OK,False,0,0,0,220,29040,2026-10-07,38
+14,STA-0014,Sticky Notes Pack,Stationery,Coromandel Traders,3,Delhi North DC,Delhi,464,85,340,200,OVERSTOCK,False,0,124,0,150,69600,2026-10-10,35
+15,STA-0015,Whiteboard Marker Set,Stationery,Southern Star Stationers,3,Delhi North DC,Delhi,256,90,450,290,OK,False,0,0,0,260,66560,2026-10-09,36
+16,STA-0016,File Folder Pack of 10,Stationery,Coromandel Traders,3,Delhi North DC,Delhi,29,120,600,380,LOW_STOCK,True,91,0,380,199,5771,2026-10-08,37
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,Western Ghats Supplies,3,Delhi North DC,Delhi,29,90,540,360,LOW_STOCK,True,61,0,360,499,14471,2026-10-09,36
+18,HOK-0018,Non-stick Frying Pan,Home & Kitchen,Coromandel Traders,3,Delhi North DC,Delhi,53,40,200,130,OK,False,0,0,0,899,47647,2026-10-09,36
+19,HOK-0019,Lunch Box Set,Home & Kitchen,Western Ghats Supplies,3,Delhi North DC,Delhi,220,70,280,170,OK,False,0,0,0,599,131780,2026-10-10,35
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,Western Ghats Supplies,3,Delhi North DC,Delhi,62,35,210,140,OK,False,0,0,0,1199,74338,2026-10-10,35
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,Coromandel Traders,3,Delhi North DC,Delhi,383,115,690,460,OK,False,0,0,0,1499,574117,2026-10-08,37
+22,HOK-0022,Kitchen Knife Set,Home & Kitchen,Coromandel Traders,3,Delhi North DC,Delhi,825,120,600,380,OVERSTOCK,False,0,225,0,999,824175,2026-10-07,38
+23,HOK-0023,Glass Storage Jar,Home & Kitchen,Coromandel Traders,3,Delhi North DC,Delhi,435,115,575,370,OK,False,0,0,0,349,151815,2026-10-07,38
+24,HOK-0024,Dish Rack,Home & Kitchen,Coromandel Traders,3,Delhi North DC,Delhi,516,65,390,260,OVERSTOCK,False,0,126,0,799,412284,2026-10-07,38
+25,TOH-0025,Cordless Drill,Tools & Hardware,Gangetic Distributors,3,Delhi North DC,Delhi,102,65,260,160,OK,False,0,0,0,3499,356898,2026-10-10,35
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,Konkan Imports,3,Delhi North DC,Delhi,181,65,260,160,OK,False,0,0,0,649,117469,2026-10-07,38
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,Gangetic Distributors,3,Delhi North DC,Delhi,54,75,450,300,LOW_STOCK,True,21,0,300,199,10746,2026-10-07,38
+28,TOH-0028,Claw Hammer,Tools & Hardware,Gangetic Distributors,3,Delhi North DC,Delhi,123,65,260,160,OK,False,0,0,0,349,42927,2026-10-07,38
+29,TOH-0029,LED Torch,Tools & Hardware,Konkan Imports,3,Delhi North DC,Delhi,122,85,510,340,OK,False,0,0,0,399,48678,2026-10-08,37
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,Gangetic Distributors,3,Delhi North DC,Delhi,59,50,300,200,OK,False,0,0,0,599,35341,2026-10-09,36
+31,TOH-0031,Adjustable Spanner,Tools & Hardware,Gangetic Distributors,3,Delhi North DC,Delhi,277,65,390,260,OK,False,0,0,0,299,82823,2026-10-07,38
+32,TOH-0032,Safety Gloves,Tools & Hardware,Konkan Imports,3,Delhi North DC,Delhi,132,60,360,240,OK,False,0,0,0,149,19668,2026-10-09,36
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,Gangetic Distributors,3,Delhi North DC,Delhi,250,45,270,180,OK,False,0,0,0,249,62250,2026-10-07,38
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,Western Ghats Supplies,3,Delhi North DC,Delhi,95,30,180,120,OK,False,0,0,0,180,17100,2026-10-10,35
+35,PCA-0035,Toothpaste 150g,Personal Care,Gangetic Distributors,3,Delhi North DC,Delhi,288,100,400,240,OK,False,0,0,0,99,28512,2026-10-09,36
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,Gangetic Distributors,3,Delhi North DC,Delhi,428,100,600,400,OK,False,0,0,0,199,85172,2026-10-07,38
+37,PCA-0037,Face Wash 100ml,Personal Care,Western Ghats Supplies,3,Delhi North DC,Delhi,598,65,390,260,OVERSTOCK,False,0,208,0,229,136942,2026-10-07,38
+38,PCA-0038,Body Lotion 400ml,Personal Care,Western Ghats Supplies,3,Delhi North DC,Delhi,368,100,500,320,OK,False,0,0,0,349,128432,2026-10-07,38
+39,PCA-0039,Electric Trimmer,Personal Care,Western Ghats Supplies,3,Delhi North DC,Delhi,274,70,350,220,OK,False,0,0,0,1299,355926,2026-10-10,35
+40,PCA-0040,Deodorant 150ml,Personal Care,Western Ghats Supplies,3,Delhi North DC,Delhi,112,30,120,70,OK,False,0,0,0,199,22288,2026-10-10,35
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,Konkan Imports,3,Delhi North DC,Delhi,289,65,390,260,OK,False,0,0,0,799,230911,2026-10-09,36
+42,SPF-0042,Skipping Rope,Sports & Fitness,Konkan Imports,3,Delhi North DC,Delhi,85,65,390,260,OK,False,0,0,0,249,21165,2026-10-07,38
+43,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,Konkan Imports,3,Delhi North DC,Delhi,782,25,150,100,OVERSTOCK,False,0,632,0,1299,1015818,2026-09-25,50
+44,SPF-0044,Resistance Band Set,Sports & Fitness,Konkan Imports,3,Delhi North DC,Delhi,49,85,425,270,LOW_STOCK,True,36,0,270,599,29351,2026-10-10,35
+45,SPF-0045,Football Size 5,Sports & Fitness,Konkan Imports,3,Delhi North DC,Delhi,51,25,125,80,OK,False,0,0,0,899,45849,2026-10-07,38
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,Bharat Sports Gear,3,Delhi North DC,Delhi,345,50,250,160,OVERSTOCK,False,0,95,0,1499,517155,2026-10-07,38
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,Konkan Imports,3,Delhi North DC,Delhi,217,55,275,180,OK,False,0,0,0,399,86583,2026-10-08,37
+48,SPF-0048,Gym Gloves,Sports & Fitness,Bharat Sports Gear,3,Delhi North DC,Delhi,91,40,160,100,OK,False,0,0,0,349,31759,2026-10-09,36
+1,ELE-0001,Wireless Mouse,Electronics,Deccan Wholesale Co,4,Bengaluru Tech Park WH,Bengaluru,178,25,150,100,OVERSTOCK,False,0,28,0,699,124422,2026-10-10,35
+2,ELE-0002,USB-C Cable 1m,Electronics,Deccan Wholesale Co,4,Bengaluru Tech Park WH,Bengaluru,77,65,325,210,OK,False,0,0,0,299,23023,2026-10-07,38
+3,ELE-0003,Bluetooth Speaker,Electronics,Namma Tech Components,4,Bengaluru Tech Park WH,Bengaluru,79,25,150,100,OK,False,0,0,0,1999,157921,2026-10-08,37
+4,ELE-0004,Power Bank 10000mAh,Electronics,Deccan Wholesale Co,4,Bengaluru Tech Park WH,Bengaluru,48,25,125,80,OK,False,0,0,0,1299,62352,2026-10-07,38
+5,ELE-0005,HDMI Cable 2m,Electronics,Deccan Wholesale Co,4,Bengaluru Tech Park WH,Bengaluru,378,95,570,380,OK,False,0,0,0,399,150822,2026-10-08,37
+6,ELE-0006,Webcam 1080p,Electronics,Namma Tech Components,4,Bengaluru Tech Park WH,Bengaluru,713,100,500,320,OVERSTOCK,False,0,213,0,2499,1781787,2026-10-10,35
+7,ELE-0007,Laptop Stand,Electronics,Deccan Wholesale Co,4,Bengaluru Tech Park WH,Bengaluru,19,105,525,340,LOW_STOCK,True,86,0,340,899,17081,2026-10-09,36
+8,ELE-0008,USB Flash Drive 64GB,Electronics,Deccan Wholesale Co,4,Bengaluru Tech Park WH,Bengaluru,113,55,220,130,OK,False,0,0,0,549,62037,2026-10-07,38
+9,STA-0009,A4 Paper Ream 500 Sheets,Stationery,Southern Star Stationers,4,Bengaluru Tech Park WH,Bengaluru,760,100,500,320,OVERSTOCK,False,0,260,0,349,265240,2026-10-08,37
+10,STA-0010,Ball Pen Box of 50,Stationery,Southern Star Stationers,4,Bengaluru Tech Park WH,Bengaluru,739,105,525,340,OVERSTOCK,False,0,214,0,450,332550,2026-10-08,37
+11,STA-0011,Spiral Notebook,Stationery,Southern Star Stationers,4,Bengaluru Tech Park WH,Bengaluru,241,65,260,160,OK,False,0,0,0,120,28920,2026-10-09,36
+12,STA-0012,Stapler,Stationery,Southern Star Stationers,4,Bengaluru Tech Park WH,Bengaluru,651,75,450,300,OVERSTOCK,False,0,201,0,180,117180,2026-10-10,35
+13,STA-0013,Highlighter Set,Stationery,Southern Star Stationers,4,Bengaluru Tech Park WH,Bengaluru,1031,110,660,440,OVERSTOCK,False,0,371,0,220,226820,2026-10-10,35
+14,STA-0014,Sticky Notes Pack,Stationery,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,484,85,340,200,OVERSTOCK,False,0,144,0,150,72600,2026-10-09,36
+15,STA-0015,Whiteboard Marker Set,Stationery,Southern Star Stationers,4,Bengaluru Tech Park WH,Bengaluru,267,90,450,290,OK,False,0,0,0,260,69420,2026-10-09,36
+16,STA-0016,File Folder Pack of 10,Stationery,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,563,120,600,380,OK,False,0,0,0,199,112037,2026-10-09,36
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,118,90,540,360,OK,False,0,0,0,499,58882,2026-10-10,35
+18,HOK-0018,Non-stick Frying Pan,Home & Kitchen,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,250,40,200,130,OVERSTOCK,False,0,50,0,899,224750,2026-10-09,36
+19,HOK-0019,Lunch Box Set,Home & Kitchen,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,197,70,280,170,OK,False,0,0,0,599,118003,2026-10-07,38
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,276,35,210,140,OVERSTOCK,False,0,66,0,1199,330924,2026-10-08,37
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,25,115,690,460,LOW_STOCK,True,90,0,460,1499,37475,2026-10-10,35
+22,HOK-0022,Kitchen Knife Set,Home & Kitchen,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,459,120,600,380,OK,False,0,0,0,999,458541,2026-10-08,37
+23,HOK-0023,Glass Storage Jar,Home & Kitchen,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,866,115,575,370,OVERSTOCK,False,0,291,0,349,302234,2026-10-09,36
+24,HOK-0024,Dish Rack,Home & Kitchen,Coromandel Traders,4,Bengaluru Tech Park WH,Bengaluru,223,65,390,260,OK,False,0,0,0,799,178177,2026-10-07,38
+25,TOH-0025,Cordless Drill,Tools & Hardware,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,119,65,260,160,OK,False,0,0,0,3499,416381,2026-10-08,37
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,96,65,260,160,OK,False,0,0,0,649,62304,2026-10-08,37
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,43,75,450,300,LOW_STOCK,True,32,0,300,199,8557,2026-10-08,37
+28,TOH-0028,Claw Hammer,Tools & Hardware,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,308,65,260,160,OVERSTOCK,False,0,48,0,349,107492,2026-10-08,37
+29,TOH-0029,LED Torch,Tools & Hardware,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,385,85,510,340,OK,False,0,0,0,399,153615,2026-10-07,38
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,332,50,300,200,OVERSTOCK,False,0,32,0,599,198868,2026-10-09,36
+31,TOH-0031,Adjustable Spanner,Tools & Hardware,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,175,65,390,260,OK,False,0,0,0,299,52325,2026-10-07,38
+32,TOH-0032,Safety Gloves,Tools & Hardware,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,210,60,360,240,OK,False,0,0,0,149,31290,2026-10-08,37
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,123,45,270,180,OK,False,0,0,0,249,30627,2026-10-10,35
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,90,30,180,120,OK,False,0,0,0,180,16200,2026-10-10,35
+35,PCA-0035,Toothpaste 150g,Personal Care,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,191,100,400,240,OK,False,0,0,0,99,18909,2026-10-10,35
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,Gangetic Distributors,4,Bengaluru Tech Park WH,Bengaluru,522,100,600,400,OK,False,0,0,0,199,103878,2026-10-09,36
+37,PCA-0037,Face Wash 100ml,Personal Care,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,116,65,390,260,OK,False,0,0,0,229,26564,2026-10-07,38
+38,PCA-0038,Body Lotion 400ml,Personal Care,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,763,100,500,320,OVERSTOCK,False,0,263,0,349,266287,2026-10-08,37
+39,PCA-0039,Electric Trimmer,Personal Care,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,389,70,350,220,OVERSTOCK,False,0,39,0,1299,505311,2026-10-08,37
+40,PCA-0040,Deodorant 150ml,Personal Care,Western Ghats Supplies,4,Bengaluru Tech Park WH,Bengaluru,63,30,120,70,OK,False,0,0,0,199,12537,2026-10-10,35
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,476,65,390,260,OVERSTOCK,False,0,86,0,799,380324,2026-10-08,37
+42,SPF-0042,Skipping Rope,Sports & Fitness,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,122,65,390,260,OK,False,0,0,0,249,30378,2026-10-07,38
+43,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,63,25,150,100,OK,False,0,0,0,1299,81837,2026-10-07,38
+44,SPF-0044,Resistance Band Set,Sports & Fitness,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,502,85,425,270,OVERSTOCK,False,0,77,0,599,300698,2026-10-08,37
+45,SPF-0045,Football Size 5,Sports & Fitness,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,179,25,125,80,OVERSTOCK,False,0,54,0,899,160921,2026-10-09,36
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,Bharat Sports Gear,4,Bengaluru Tech Park WH,Bengaluru,140,50,250,160,OK,False,0,0,0,1499,209860,2026-10-09,36
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,Konkan Imports,4,Bengaluru Tech Park WH,Bengaluru,191,55,275,180,OK,False,0,0,0,399,76209,2026-10-08,37
+48,SPF-0048,Gym Gloves,Sports & Fitness,Bharat Sports Gear,4,Bengaluru Tech Park WH,Bengaluru,117,40,160,100,OK,False,0,0,0,349,40833,2026-10-10,35
+1,ELE-0001,Wireless Mouse,Electronics,Deccan Wholesale Co,5,Hyderabad South Hub,Hyderabad,81,25,150,100,OK,False,0,0,0,699,56619,2026-10-09,36
+2,ELE-0002,USB-C Cable 1m,Electronics,Deccan Wholesale Co,5,Hyderabad South Hub,Hyderabad,84,65,325,210,OK,False,0,0,0,299,25116,2026-10-09,36
+3,ELE-0003,Bluetooth Speaker,Electronics,Namma Tech Components,5,Hyderabad South Hub,Hyderabad,122,25,150,100,OK,False,0,0,0,1999,243878,2026-10-08,37
+4,ELE-0004,Power Bank 10000mAh,Electronics,Deccan Wholesale Co,5,Hyderabad South Hub,Hyderabad,78,25,125,80,OK,False,0,0,0,1299,101322,2026-10-07,38
+5,ELE-0005,HDMI Cable 2m,Electronics,Deccan Wholesale Co,5,Hyderabad South Hub,Hyderabad,283,95,570,380,OK,False,0,0,0,399,112917,2026-10-08,37
+6,ELE-0006,Webcam 1080p,Electronics,Namma Tech Components,5,Hyderabad South Hub,Hyderabad,451,100,500,320,OK,False,0,0,0,2499,1127049,2026-10-07,38
+7,ELE-0007,Laptop Stand,Electronics,Deccan Wholesale Co,5,Hyderabad South Hub,Hyderabad,154,105,525,340,OK,False,0,0,0,899,138446,2026-10-10,35
+8,ELE-0008,USB Flash Drive 64GB,Electronics,Deccan Wholesale Co,5,Hyderabad South Hub,Hyderabad,172,55,220,130,OK,False,0,0,0,549,94428,2026-10-10,35
+9,STA-0009,A4 Paper Ream 500 Sheets,Stationery,Southern Star Stationers,5,Hyderabad South Hub,Hyderabad,140,100,500,320,OK,False,0,0,0,349,48860,2026-10-07,38
+10,STA-0010,Ball Pen Box of 50,Stationery,Southern Star Stationers,5,Hyderabad South Hub,Hyderabad,10,105,525,340,LOW_STOCK,True,95,0,340,450,4500,2026-10-07,38
+11,STA-0011,Spiral Notebook,Stationery,Southern Star Stationers,5,Hyderabad South Hub,Hyderabad,152,65,260,160,OK,False,0,0,0,120,18240,2026-10-09,36
+12,STA-0012,Stapler,Stationery,Southern Star Stationers,5,Hyderabad South Hub,Hyderabad,109,75,450,300,OK,False,0,0,0,180,19620,2026-10-07,38
+13,STA-0013,Highlighter Set,Stationery,Southern Star Stationers,5,Hyderabad South Hub,Hyderabad,578,110,660,440,OK,False,0,0,0,220,127160,2026-10-10,35
+14,STA-0014,Sticky Notes Pack,Stationery,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,161,85,340,200,OK,False,0,0,0,150,24150,2026-10-09,36
+15,STA-0015,Whiteboard Marker Set,Stationery,Southern Star Stationers,5,Hyderabad South Hub,Hyderabad,329,90,450,290,OK,False,0,0,0,260,85540,2026-10-08,37
+16,STA-0016,File Folder Pack of 10,Stationery,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,392,120,600,380,OK,False,0,0,0,199,78008,2026-10-07,38
+17,HOK-0017,Steel Water Bottle 1L,Home & Kitchen,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,732,90,540,360,OVERSTOCK,False,0,192,0,499,365268,2026-10-09,36
+18,HOK-0018,Non-stick Frying Pan,Home & Kitchen,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,93,40,200,130,OK,False,0,0,0,899,83607,2026-10-09,36
+19,HOK-0019,Lunch Box Set,Home & Kitchen,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,228,70,280,170,OK,False,0,0,0,599,136572,2026-10-08,37
+20,HOK-0020,Electric Kettle 1.5L,Home & Kitchen,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,64,35,210,140,OK,False,0,0,0,1199,76736,2026-10-07,38
+21,HOK-0021,Dinner Plate Set 6pc,Home & Kitchen,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,231,115,690,460,OK,False,0,0,0,1499,346269,2026-10-09,36
+22,HOK-0022,Kitchen Knife Set,Home & Kitchen,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,340,120,600,380,OK,False,0,0,0,999,339660,2026-10-10,35
+23,HOK-0023,Glass Storage Jar,Home & Kitchen,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,540,115,575,370,OK,False,0,0,0,349,188460,2026-10-10,35
+24,HOK-0024,Dish Rack,Home & Kitchen,Coromandel Traders,5,Hyderabad South Hub,Hyderabad,437,65,390,260,OVERSTOCK,False,0,47,0,799,349163,2026-10-07,38
+25,TOH-0025,Cordless Drill,Tools & Hardware,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,374,65,260,160,OVERSTOCK,False,0,114,0,3499,1308626,2026-10-07,38
+26,TOH-0026,Screwdriver Set 24pc,Tools & Hardware,Konkan Imports,5,Hyderabad South Hub,Hyderabad,314,65,260,160,OVERSTOCK,False,0,54,0,649,203786,2026-10-10,35
+27,TOH-0027,Measuring Tape 5m,Tools & Hardware,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,154,75,450,300,OK,False,0,0,0,199,30646,2026-10-09,36
+28,TOH-0028,Claw Hammer,Tools & Hardware,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,231,65,260,160,OK,False,0,0,0,349,80619,2026-10-08,37
+29,TOH-0029,LED Torch,Tools & Hardware,Konkan Imports,5,Hyderabad South Hub,Hyderabad,316,85,510,340,OK,False,0,0,0,399,126084,2026-10-09,36
+30,TOH-0030,Extension Board 4-Socket,Tools & Hardware,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,95,50,300,200,OK,False,0,0,0,599,56905,2026-10-10,35
+31,TOH-0031,Adjustable Spanner,Tools & Hardware,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,222,65,390,260,OK,False,0,0,0,299,66378,2026-10-07,38
+32,TOH-0032,Safety Gloves,Tools & Hardware,Konkan Imports,5,Hyderabad South Hub,Hyderabad,433,60,360,240,OVERSTOCK,False,0,73,0,149,64517,2026-10-09,36
+33,PCA-0033,Herbal Shampoo 250ml,Personal Care,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,16,45,270,180,LOW_STOCK,True,29,0,180,249,3984,2026-10-08,37
+34,PCA-0034,Bathing Soap Pack of 4,Personal Care,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,60,30,180,120,OK,False,0,0,0,180,10800,2026-10-09,36
+35,PCA-0035,Toothpaste 150g,Personal Care,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,218,100,400,240,OK,False,0,0,0,99,21582,2026-10-10,35
+36,PCA-0036,Hand Sanitizer 500ml,Personal Care,Gangetic Distributors,5,Hyderabad South Hub,Hyderabad,174,100,600,400,OK,False,0,0,0,199,34626,2026-10-07,38
+37,PCA-0037,Face Wash 100ml,Personal Care,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,169,65,390,260,OK,False,0,0,0,229,38701,2026-10-09,36
+38,PCA-0038,Body Lotion 400ml,Personal Care,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,260,100,500,320,OK,False,0,0,0,349,90740,2026-10-10,35
+39,PCA-0039,Electric Trimmer,Personal Care,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,176,70,350,220,OK,False,0,0,0,1299,228624,2026-10-08,37
+40,PCA-0040,Deodorant 150ml,Personal Care,Western Ghats Supplies,5,Hyderabad South Hub,Hyderabad,189,30,120,70,OVERSTOCK,False,0,69,0,199,37611,2026-10-09,36
+41,SPF-0041,Yoga Mat 6mm,Sports & Fitness,Konkan Imports,5,Hyderabad South Hub,Hyderabad,134,65,390,260,OK,False,0,0,0,799,107066,2026-10-08,37
+42,SPF-0042,Skipping Rope,Sports & Fitness,Konkan Imports,5,Hyderabad South Hub,Hyderabad,223,65,390,260,OK,False,0,0,0,249,55527,2026-10-09,36
+43,SPF-0043,Dumbbell Pair 5kg,Sports & Fitness,Konkan Imports,5,Hyderabad South Hub,Hyderabad,77,25,150,100,OK,False,0,0,0,1299,100023,2026-10-09,36
+44,SPF-0044,Resistance Band Set,Sports & Fitness,Konkan Imports,5,Hyderabad South Hub,Hyderabad,243,85,425,270,OK,False,0,0,0,599,145557,2026-10-07,38
+45,SPF-0045,Football Size 5,Sports & Fitness,Konkan Imports,5,Hyderabad South Hub,Hyderabad,110,25,125,80,OK,False,0,0,0,899,98890,2026-10-09,36
+46,SPF-0046,Badminton Racket Pair,Sports & Fitness,Bharat Sports Gear,5,Hyderabad South Hub,Hyderabad,101,50,250,160,OK,False,0,0,0,1499,151399,2026-10-10,35
+47,SPF-0047,Sports Water Jug 2L,Sports & Fitness,Konkan Imports,5,Hyderabad South Hub,Hyderabad,218,55,275,180,OK,False,0,0,0,399,86982,2026-10-07,38
+48,SPF-0048,Gym Gloves,Sports & Fitness,Bharat Sports Gear,5,Hyderabad South Hub,Hyderabad,123,40,160,100,OK,False,0,0,0,349,42927,2026-10-10,35
